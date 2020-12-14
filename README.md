@@ -35,7 +35,7 @@ requirement.txt: 本地python包（pip install -r requirements.txt 安装项目�
 
 run_main.py: 项目运行文件
 
-####结构设计
+#### 结构设计
 
 1.每一个页面的所有用例组合在一个测试类里面生成一个py文件
 
@@ -62,6 +62,8 @@ run_main.py: 项目运行文件
  #### 不同浏览器使用方法：
         driver = WDriver().chromeDriver()
         调用driver.py文件中不同的方法
+#### 目前不足之处：
+        登录成功用例不可与其他用例一同运行（改良中）
 
 
 
