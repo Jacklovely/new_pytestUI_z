@@ -27,7 +27,7 @@ pages: 存放测试页面元素，元素操作，断言
 
 report: 存放测试报告
 
-getpathinfo.py :封装路径
+getpathinfo.py :封装项目测试路径
 
 pytest.int :配置文件
 
