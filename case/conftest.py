@@ -31,7 +31,7 @@ def open_browser():
 def login_fixtrue(browser):
     #登录前置操作
     # driver = webdriver.Chrome()
-    # driver.maximize_window()
+    #driver.maximize_window()
     web = LoginPage(_driver)
     web.login()
     return _driver
@@ -99,7 +99,8 @@ def driver(request):
 def browser():
     global _driver
     if _driver is None:
-        _driver =Base().chromeDriver
+        _driver = WDriver().chromeDriver()
+        _driver.maximize_window()
     yield _driver
     #print("1111111111")
     _driver.quit()

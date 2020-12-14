@@ -1,4 +1,4 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"failed","Mon Dec 14 16:27:47 CST 2020","Mon Dec 14 16:27:52 CST 2020","4862","case","test_new_repository","Test_New_Repository","","","test_new_repository[点击新建储存库]",""
-"passed","Mon Dec 14 16:27:26 CST 2020","Mon Dec 14 16:27:35 CST 2020","9479","case","test_login","Test_login","","","test_fail_login[错误用户名正确密码登录]",""
-"skipped","Mon Dec 14 16:27:25 CST 2020","Mon Dec 14 16:27:25 CST 2020","0","case","test_login","Test_login","","","test_success_login[正确用户名密码登录]",""
+"failed","Mon Dec 14 17:42:45 CST 2020","Mon Dec 14 17:42:51 CST 2020","5785","case","test_new_repository","Test_New_Repository","","","test_new_repository[点击新建储存库]",""
+"skipped","Mon Dec 14 17:42:00 CST 2020","Mon Dec 14 17:42:00 CST 2020","0","case","test_login","Test_login","","","test_success_login[正确用户名密码登录]",""
+"passed","Mon Dec 14 17:42:04 CST 2020","Mon Dec 14 17:42:21 CST 2020","17055","case","test_login","Test_login","","","test_fail_login[错误用户名正确密码登录]",""

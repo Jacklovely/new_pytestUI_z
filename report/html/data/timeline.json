@@ -4,70 +4,23 @@
   "children" : [ {
     "name" : "PC-20200723MDZP",
     "children" : [ {
-      "name" : "9464-MainThread",
+      "name" : "4156-MainThread",
       "children" : [ {
-        "name" : "test_success_login[正确用户名密码登录]",
-        "uid" : "573ff82bc5a4d6e3",
-        "parentUid" : "a35944a07811f806ecbcd0bbb1540a3f",
-        "status" : "skipped",
-        "time" : {
-          "start" : 1607934445252,
-          "stop" : 1607934445252,
-          "duration" : 0
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "'Working with a team?'", "'li..668566'", "'hanxi978@163.com'" ]
-      }, {
-        "name" : "test_new_repository[点击新建储存库]",
-        "uid" : "8f0b07826c0114e1",
-        "parentUid" : "a35944a07811f806ecbcd0bbb1540a3f",
-        "status" : "failed",
-        "time" : {
-          "start" : 1607934467884,
-          "stop" : 1607934472746,
-          "duration" : 4862
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "['Create a new r']" ]
-      }, {
         "name" : "test_fail_login[错误用户名正确密码登录]",
-        "uid" : "4d91e96d1f19a5c9",
-        "parentUid" : "a35944a07811f806ecbcd0bbb1540a3f",
-        "status" : "passed",
+        "uid" : "327386da62b31750",
+        "parentUid" : "0928eb1a6f0aa9816eabb6ec5fd80d50",
+        "status" : "broken",
         "time" : {
-          "start" : 1607934446456,
-          "stop" : 1607934455935,
-          "duration" : 9479
+          "start" : 1607928936041,
+          "stop" : 1607928940050,
+          "duration" : 4009
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "'Incorrect username or password.'", "'li..668566'", "'hanxi.com'" ]
-      } ],
-      "uid" : "a35944a07811f806ecbcd0bbb1540a3f"
-    }, {
-      "name" : "15872-MainThread",
-      "children" : [ {
+      }, {
         "name" : "test_success_login[正确用户名密码登录]",
-        "uid" : "936daafa485714ff",
-        "parentUid" : "9c9ac1cfea3d693d09b9e01dca1451e4",
-        "status" : "passed",
-        "time" : {
-          "start" : 1607929201646,
-          "stop" : 1607929223944,
-          "duration" : 22298
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "'Working with a team?'", "'li..668566'", "'hanxi978@163.com'" ]
-      } ],
-      "uid" : "9c9ac1cfea3d693d09b9e01dca1451e4"
-    }, {
-      "name" : "4156-MainThread",
-      "children" : [ {
-        "name" : "test_success_login[正确用户名密码登录]",
-        "uid" : "f2af9d55f7f2a237",
+        "uid" : "57cec4940da21220",
         "parentUid" : "0928eb1a6f0aa9816eabb6ec5fd80d50",
         "status" : "passed",
         "time" : {
@@ -80,7 +33,7 @@
         "parameters" : [ "'Working with a team?'", "'li..668566'", "'hanxi978@163.com'" ]
       }, {
         "name" : "test_new_repository[点击新建储存库]",
-        "uid" : "7953512fe49fa202",
+        "uid" : "ccc0c5d83cf27466",
         "parentUid" : "0928eb1a6f0aa9816eabb6ec5fd80d50",
         "status" : "broken",
         "time" : {
@@ -91,82 +44,13 @@
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "['Create a new r']" ]
-      }, {
-        "name" : "test_fail_login[错误用户名正确密码登录]",
-        "uid" : "3825ed8190890751",
-        "parentUid" : "0928eb1a6f0aa9816eabb6ec5fd80d50",
-        "status" : "broken",
-        "time" : {
-          "start" : 1607928936041,
-          "stop" : 1607928940050,
-          "duration" : 4009
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "'Incorrect username or password.'", "'li..668566'", "'hanxi.com'" ]
       } ],
       "uid" : "0928eb1a6f0aa9816eabb6ec5fd80d50"
     }, {
-      "name" : "6428-MainThread",
-      "children" : [ {
-        "name" : "test_success_login[正确用户名密码登录]",
-        "uid" : "c6a286dc91c7b6ed",
-        "parentUid" : "8b434ad6c8c55689e0eb8ba82a9775f1",
-        "status" : "passed",
-        "time" : {
-          "start" : 1607929677641,
-          "stop" : 1607929691191,
-          "duration" : 13550
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "'Working with a team?'", "'li..668566'", "'hanxi978@163.com'" ]
-      }, {
-        "name" : "test_fail_login[错误用户名正确密码登录]",
-        "uid" : "2766f386109a5361",
-        "parentUid" : "8b434ad6c8c55689e0eb8ba82a9775f1",
-        "status" : "broken",
-        "time" : {
-          "start" : 1607929691207,
-          "stop" : 1607929691716,
-          "duration" : 509
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "'Incorrect username or password.'", "'li..668566'", "'hanxi.com'" ]
-      }, {
-        "name" : "test_new_repository[点击新建储存库]",
-        "uid" : "736907c2b21bc0c0",
-        "parentUid" : "8b434ad6c8c55689e0eb8ba82a9775f1",
-        "status" : "broken",
-        "time" : {
-          "start" : 1607929691793,
-          "stop" : 1607929691793,
-          "duration" : 0
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "['Create a new r']" ]
-      } ],
-      "uid" : "8b434ad6c8c55689e0eb8ba82a9775f1"
-    }, {
       "name" : "7320-MainThread",
       "children" : [ {
-        "name" : "test_success_login[正确用户名密码登录]",
-        "uid" : "dd63e36de27c2cf5",
-        "parentUid" : "c84c24677370884ca304afdc2f5e01e9",
-        "status" : "passed",
-        "time" : {
-          "start" : 1607929268725,
-          "stop" : 1607929279560,
-          "duration" : 10835
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "'Working with a team?'", "'li..668566'", "'hanxi978@163.com'" ]
-      }, {
         "name" : "test_new_repository[点击新建储存库]",
-        "uid" : "70871eb1452ae1d",
+        "uid" : "3cde231a2a6d82ee",
         "parentUid" : "c84c24677370884ca304afdc2f5e01e9",
         "status" : "broken",
         "time" : {
@@ -179,7 +63,7 @@
         "parameters" : [ "['Create a new r']" ]
       }, {
         "name" : "test_fail_login[错误用户名正确密码登录]",
-        "uid" : "d3dda13a756b4a37",
+        "uid" : "7f5fe6c8e31a4bb3",
         "parentUid" : "c84c24677370884ca304afdc2f5e01e9",
         "status" : "broken",
         "time" : {
@@ -190,13 +74,198 @@
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "'Incorrect username or password.'", "'li..668566'", "'hanxi.com'" ]
+      }, {
+        "name" : "test_success_login[正确用户名密码登录]",
+        "uid" : "89508b105a991202",
+        "parentUid" : "c84c24677370884ca304afdc2f5e01e9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607929268725,
+          "stop" : 1607929279560,
+          "duration" : 10835
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'Working with a team?'", "'li..668566'", "'hanxi978@163.com'" ]
       } ],
       "uid" : "c84c24677370884ca304afdc2f5e01e9"
+    }, {
+      "name" : "14300-MainThread",
+      "children" : [ {
+        "name" : "test_fail_login[错误用户名正确密码登录]",
+        "uid" : "f877c9beeb46fac1",
+        "parentUid" : "2afb2e92a0c468035c68f357e76fa30b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607938598955,
+          "stop" : 1607938607911,
+          "duration" : 8956
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'Incorrect username or password.'", "'123456'", "'hanxi.com'" ]
+      }, {
+        "name" : "test_success_login[正确用户名密码登录]",
+        "uid" : "d1773f29672656",
+        "parentUid" : "2afb2e92a0c468035c68f357e76fa30b",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1607938596219,
+          "stop" : 1607938596219,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'Working with a team?'", "'123456'", "'hanxi@163.com'" ]
+      }, {
+        "name" : "test_new_repository[点击新建储存库]",
+        "uid" : "41d7e4ddfbe45f69",
+        "parentUid" : "2afb2e92a0c468035c68f357e76fa30b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607938625907,
+          "stop" : 1607938636072,
+          "duration" : 10165
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "['Create a new r']" ]
+      } ],
+      "uid" : "2afb2e92a0c468035c68f357e76fa30b"
+    }, {
+      "name" : "11016-MainThread",
+      "children" : [ {
+        "name" : "test_success_login[正确用户名密码登录]",
+        "uid" : "cc67db1f247f5879",
+        "parentUid" : "80117d9f1eaa908b7388a535e38fde12",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1607938920428,
+          "stop" : 1607938920428,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'Working with a team?'", "'123456'", "'hanxi@163.com'" ]
+      }, {
+        "name" : "test_fail_login[错误用户名正确密码登录]",
+        "uid" : "748a7a40a32a7a6a",
+        "parentUid" : "80117d9f1eaa908b7388a535e38fde12",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607938924129,
+          "stop" : 1607938941184,
+          "duration" : 17055
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'Incorrect username or password.'", "'123456'", "'hanxi.com'" ]
+      }, {
+        "name" : "test_new_repository[点击新建储存库]",
+        "uid" : "83c2f0b250d1e4f6",
+        "parentUid" : "80117d9f1eaa908b7388a535e38fde12",
+        "status" : "failed",
+        "time" : {
+          "start" : 1607938965734,
+          "stop" : 1607938971519,
+          "duration" : 5785
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "['Create a new r']" ]
+      } ],
+      "uid" : "80117d9f1eaa908b7388a535e38fde12"
+    }, {
+      "name" : "10304-MainThread",
+      "children" : [ {
+        "name" : "test_new_repository[点击新建储存库]",
+        "uid" : "ba8e20422c94c612",
+        "parentUid" : "1f3a278fb59c238dc86be1f399c3f55a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607938553371,
+          "stop" : 1607938563541,
+          "duration" : 10170
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "['Create a new r']" ]
+      }, {
+        "name" : "test_fail_login[错误用户名正确密码登录]",
+        "uid" : "ba302430cd42bc04",
+        "parentUid" : "1f3a278fb59c238dc86be1f399c3f55a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607938533202,
+          "stop" : 1607938540525,
+          "duration" : 7323
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'Incorrect username or password.'", "'123456'", "'hanxi.com'" ]
+      }, {
+        "name" : "test_success_login[正确用户名密码登录]",
+        "uid" : "a3d5ec2a0d39bfff",
+        "parentUid" : "1f3a278fb59c238dc86be1f399c3f55a",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1607938530406,
+          "stop" : 1607938530406,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'Working with a team?'", "'123456'", "'hanxi@163.com'" ]
+      } ],
+      "uid" : "1f3a278fb59c238dc86be1f399c3f55a"
+    }, {
+      "name" : "6428-MainThread",
+      "children" : [ {
+        "name" : "test_fail_login[错误用户名正确密码登录]",
+        "uid" : "98767da913bf8c3b",
+        "parentUid" : "8b434ad6c8c55689e0eb8ba82a9775f1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607929691207,
+          "stop" : 1607929691716,
+          "duration" : 509
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'Incorrect username or password.'", "'li..668566'", "'hanxi.com'" ]
+      }, {
+        "name" : "test_new_repository[点击新建储存库]",
+        "uid" : "a4da89ca7645ab21",
+        "parentUid" : "8b434ad6c8c55689e0eb8ba82a9775f1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607929691793,
+          "stop" : 1607929691793,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "['Create a new r']" ]
+      }, {
+        "name" : "test_success_login[正确用户名密码登录]",
+        "uid" : "a2a282c97640ebe0",
+        "parentUid" : "8b434ad6c8c55689e0eb8ba82a9775f1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607929677641,
+          "stop" : 1607929691191,
+          "duration" : 13550
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'Working with a team?'", "'li..668566'", "'hanxi978@163.com'" ]
+      } ],
+      "uid" : "8b434ad6c8c55689e0eb8ba82a9775f1"
     }, {
       "name" : "19252-MainThread",
       "children" : [ {
         "name" : "test_fail_login[错误用户名正确密码登录]",
-        "uid" : "44a6e926059a969",
+        "uid" : "aca28009f6eb0e1b",
         "parentUid" : "ce4f6d14eb64fc82efae0dd966afb44f",
         "status" : "broken",
         "time" : {
@@ -208,21 +277,8 @@
         "newFailed" : false,
         "parameters" : [ "'Incorrect username or password.'", "'li..668566'", "'hanxi.com'" ]
       }, {
-        "name" : "test_new_repository[点击新建储存库]",
-        "uid" : "41821df2adfc9eed",
-        "parentUid" : "ce4f6d14eb64fc82efae0dd966afb44f",
-        "status" : "broken",
-        "time" : {
-          "start" : 1607929168917,
-          "stop" : 1607929168917,
-          "duration" : 0
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "['Create a new r']" ]
-      }, {
         "name" : "test_success_login[正确用户名密码登录]",
-        "uid" : "6e05335652cffcf7",
+        "uid" : "cd7cb28a85d3daa7",
         "parentUid" : "ce4f6d14eb64fc82efae0dd966afb44f",
         "status" : "passed",
         "time" : {
@@ -233,8 +289,81 @@
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "'Working with a team?'", "'li..668566'", "'hanxi978@163.com'" ]
+      }, {
+        "name" : "test_new_repository[点击新建储存库]",
+        "uid" : "9cc4c1ac9e1be64a",
+        "parentUid" : "ce4f6d14eb64fc82efae0dd966afb44f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1607929168917,
+          "stop" : 1607929168917,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "['Create a new r']" ]
       } ],
       "uid" : "ce4f6d14eb64fc82efae0dd966afb44f"
+    }, {
+      "name" : "9464-MainThread",
+      "children" : [ {
+        "name" : "test_success_login[正确用户名密码登录]",
+        "uid" : "b668b2067c78c284",
+        "parentUid" : "a35944a07811f806ecbcd0bbb1540a3f",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1607934445252,
+          "stop" : 1607934445252,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'Working with a team?'", "'li..668566'", "'hanxi978@163.com'" ]
+      }, {
+        "name" : "test_fail_login[错误用户名正确密码登录]",
+        "uid" : "f2eb49c569b0af0d",
+        "parentUid" : "a35944a07811f806ecbcd0bbb1540a3f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607934446456,
+          "stop" : 1607934455935,
+          "duration" : 9479
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'Incorrect username or password.'", "'li..668566'", "'hanxi.com'" ]
+      }, {
+        "name" : "test_new_repository[点击新建储存库]",
+        "uid" : "6e79b8618cfd12d6",
+        "parentUid" : "a35944a07811f806ecbcd0bbb1540a3f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1607934467884,
+          "stop" : 1607934472746,
+          "duration" : 4862
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "['Create a new r']" ]
+      } ],
+      "uid" : "a35944a07811f806ecbcd0bbb1540a3f"
+    }, {
+      "name" : "15872-MainThread",
+      "children" : [ {
+        "name" : "test_success_login[正确用户名密码登录]",
+        "uid" : "fea7a8da70439aed",
+        "parentUid" : "9c9ac1cfea3d693d09b9e01dca1451e4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607929201646,
+          "stop" : 1607929223944,
+          "duration" : 22298
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'Working with a team?'", "'li..668566'", "'hanxi978@163.com'" ]
+      } ],
+      "uid" : "9c9ac1cfea3d693d09b9e01dca1451e4"
     } ],
     "uid" : "113705b8c2a5f2fba1e25375333a394c"
   } ]

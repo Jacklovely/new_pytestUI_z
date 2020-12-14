@@ -9,12 +9,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "4d91e96d1f19a5c9",
+      "uid" : "748a7a40a32a7a6a",
       "status" : "passed",
       "time" : {
-        "start" : 1607934446456,
-        "stop" : 1607934455935,
-        "duration" : 9479
+        "start" : 1607938924129,
+        "stop" : 1607938941184,
+        "duration" : 17055
       }
     } ]
   },
@@ -28,13 +28,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "8f0b07826c0114e1",
+      "uid" : "83c2f0b250d1e4f6",
       "status" : "failed",
       "statusDetails" : "AssertionError: assert False",
       "time" : {
-        "start" : 1607934467884,
-        "stop" : 1607934472746,
-        "duration" : 4862
+        "start" : 1607938965734,
+        "stop" : 1607938971519,
+        "duration" : 5785
       }
     } ]
   },
@@ -48,12 +48,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "573ff82bc5a4d6e3",
+      "uid" : "cc67db1f247f5879",
       "status" : "skipped",
       "statusDetails" : "Skipped: 跳过该成功用例",
       "time" : {
-        "start" : 1607934445252,
-        "stop" : 1607934445252,
+        "start" : 1607938920428,
+        "stop" : 1607938920428,
         "duration" : 0
       }
     } ]

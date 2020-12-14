@@ -1,7 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="073f202d-8443-49eb-b782-e3c031ad8228" name="Default Changelist" comment="修改选择浏览器，前置打开浏览器" />
+    <list default="true" id="073f202d-8443-49eb-b782-e3c031ad8228" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case/failures" beforeDir="false" afterPath="$PROJECT_DIR$/case/failures" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/test_login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2020_12_14.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/2020_12_14.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/login_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/login_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/attachments/1c3dc9a9617c3441.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/attachments/207cf1ca29b04fc9.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/attachments/4710ef4b0ce735d7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/attachments/58d8081c9115d057.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/attachments/5e8b1bfcd62d523.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/attachments/714065d248f4ea12.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/attachments/8ac40b99c4ed56c3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/attachments/a6a83a76243d2166.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/attachments/b33ffae467fb192d.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/attachments/bac7eda72c18b68.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/attachments/d0edb87b8a91a449.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/attachments/d61306a655e9a682.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/attachments/e0e958e4515be013.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/attachments/e63249587990626f.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/attachments/ed759e79aa0d3028.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/attachments/eff0bfb94a102de4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/behaviors.csv" beforeDir="false" afterPath="$PROJECT_DIR$/report/html/data/behaviors.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/behaviors.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/html/data/behaviors.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/categories.csv" beforeDir="false" afterPath="$PROJECT_DIR$/report/html/data/categories.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/categories.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/html/data/categories.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/packages.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/html/data/packages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/suites.csv" beforeDir="false" afterPath="$PROJECT_DIR$/report/html/data/suites.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/suites.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/html/data/suites.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/test-cases/2766f386109a5361.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/test-cases/3825ed8190890751.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/test-cases/41821df2adfc9eed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/test-cases/44a6e926059a969.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/test-cases/4d91e96d1f19a5c9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/test-cases/573ff82bc5a4d6e3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/test-cases/6e05335652cffcf7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/test-cases/70871eb1452ae1d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/test-cases/736907c2b21bc0c0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/test-cases/7953512fe49fa202.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/test-cases/8f0b07826c0114e1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/test-cases/936daafa485714ff.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/test-cases/c6a286dc91c7b6ed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/test-cases/d3dda13a756b4a37.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/test-cases/dd63e36de27c2cf5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/test-cases/f2af9d55f7f2a237.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/data/timeline.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/html/data/timeline.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/export/influxDbData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/report/html/export/influxDbData.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/export/prometheusData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/report/html/export/prometheusData.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/history/categories-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/html/history/categories-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/history/duration-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/html/history/duration-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/history/history-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/html/history/history-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/history/history.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/html/history/history.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/history/retry-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/html/history/retry-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/widgets/behaviors.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/html/widgets/behaviors.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/widgets/categories-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/html/widgets/categories-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/widgets/categories.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/html/widgets/categories.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/widgets/duration-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/html/widgets/duration-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/widgets/duration.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/html/widgets/duration.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/widgets/history-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/html/widgets/history-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/widgets/retry-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/html/widgets/retry-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/widgets/severity.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/html/widgets/severity.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/widgets/status-chart.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/html/widgets/status-chart.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/widgets/suites.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/html/widgets/suites.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html/widgets/summary.json" beforeDir="false" afterPath="$PROJECT_DIR$/report/html/widgets/summary.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +112,7 @@
       <recent name="F:\pytestUI\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test_login.Test_login.test_fail_login">
+  <component name="RunManager" selected="Python.run_main (1)">
     <configuration name="run_main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pytestUI" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -121,7 +186,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in mytest.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_new_repository.Test_New_Repository.test_new_repository" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="pytestUI" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,17 +199,17 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/common/mytest.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="_new_target" value="&quot;test_new_repository.Test_New_Repository.test_new_repository&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.run_main (1)" />
+        <item itemvalue="Python tests.pytest for test_new_repository.Test_New_Repository.test_new_repository" />
         <item itemvalue="Python tests.pytest for test_login.Test_login.test_fail_login" />
         <item itemvalue="Python tests.pytest for test_login.Test_login.test_success_login" />
-        <item itemvalue="Python.run_main (1)" />
         <item itemvalue="Python tests.pytest for test_login.Test_login" />
-        <item itemvalue="Python tests.pytest in mytest.py" />
       </list>
     </recent_temporary>
   </component>
@@ -202,6 +267,7 @@
       <workItem from="1607493982574" duration="784000" />
       <workItem from="1607907718728" duration="22897000" />
       <workItem from="1607935927066" duration="1580000" />
+      <workItem from="1607937508713" duration="1434000" />
     </task>
     <task id="LOCAL-00001" summary="失败截图">
       <created>1600322409360</created>
@@ -238,7 +304,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607936264438</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="修改选择浏览器，前置打开浏览器">
+      <created>1607937527733</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1607937527733</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,10 +330,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="898" y="448" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607933000325" />
-    <state x="560" y="0" key="CommitChangelistDialog2" timestamp="1607936504112">
+    <state x="560" y="0" key="CommitChangelistDialog2" timestamp="1607937525113">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="560" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1607936504112" />
+    <state x="560" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1607937525113" />
     <state width="1075" height="618" key="DebuggerActiveHint" timestamp="1607925466733">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -277,22 +350,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="827" y="185" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607937333408" />
-    <state width="1235" height="175" key="GridCell.Tab.0.bottom" timestamp="1607937507265">
+    <state width="1361" height="168" key="GridCell.Tab.0.bottom" timestamp="1607938919276">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1235" height="175" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607937507265" />
-    <state width="1235" height="175" key="GridCell.Tab.0.center" timestamp="1607937507265">
+    <state width="1361" height="168" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607938919276" />
+    <state width="1361" height="168" key="GridCell.Tab.0.center" timestamp="1607938919276">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1235" height="175" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607937507265" />
-    <state width="1235" height="175" key="GridCell.Tab.0.left" timestamp="1607937507265">
+    <state width="1361" height="168" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607938919276" />
+    <state width="1361" height="168" key="GridCell.Tab.0.left" timestamp="1607938919276">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1235" height="175" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607937507265" />
-    <state width="1235" height="175" key="GridCell.Tab.0.right" timestamp="1607937507265">
+    <state width="1361" height="168" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607938919276" />
+    <state width="1361" height="168" key="GridCell.Tab.0.right" timestamp="1607938919276">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1235" height="175" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607937507265" />
+    <state width="1361" height="168" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607938919276" />
     <state width="1310" height="180" key="GridCell.Tab.1.bottom" timestamp="1607935688770">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -313,10 +386,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="484" y="216" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606807351001" />
-    <state x="554" y="240" key="Vcs.Push.Dialog.v2" timestamp="1607937047679">
+    <state x="554" y="240" key="Vcs.Push.Dialog.v2" timestamp="1607937537046">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="554" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607937047679" />
+    <state x="554" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607937537046" />
     <state x="491" y="201" width="1170" height="673" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1607926978307">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -347,9 +420,11 @@
     <SUITE FILE_PATH="coverage/pytestUI$pytest_in_test_1_py.coverage" NAME="pytest in mytest.py Coverage Results" MODIFIED="1607932215533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
     <SUITE FILE_PATH="coverage/pytestUI$pytest_for_test_login_Test_login_test_fail_login.coverage" NAME="pytest for test_login.Test_login.test_fail_login Coverage Results" MODIFIED="1607935046847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
     <SUITE FILE_PATH="coverage/pytestUI$run_main__1_.coverage" NAME="run_main (1) Coverage Results" MODIFIED="1607934441545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/new_pytestUI$run_main__1_.coverage" NAME="run_main (1) Coverage Results" MODIFIED="1607938919270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pytestUI$service.coverage" NAME="service Coverage Results" MODIFIED="1607911135789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/python/Lib/site-packages/selenium/webdriver/common" />
     <SUITE FILE_PATH="coverage/pytestUI$base.coverage" NAME="base Coverage Results" MODIFIED="1607916036820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
     <SUITE FILE_PATH="coverage/pytestUI$run_main.coverage" NAME="run_main Coverage Results" MODIFIED="1607928870713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
+    <SUITE FILE_PATH="coverage/new_pytestUI$pytest_for_test_new_repository_Test_New_Repository_test_new_repository.coverage" NAME="pytest for test_new_repository.Test_New_Repository.test_new_repository Coverage Results" MODIFIED="1607938871504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
     <SUITE FILE_PATH="coverage/pytestUI$getpathinfo.coverage" NAME="getpathinfo Coverage Results" MODIFIED="1607910684655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pytestUI$pytest_for_test_new_repository_Test_New_Repository_test_new_repository.coverage" NAME="pytest for test_new_repository.Test_New_Repository.test_new_repository Coverage Results" MODIFIED="1607928820862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
     <SUITE FILE_PATH="coverage/pytestUI$login_page.coverage" NAME="login_page Coverage Results" MODIFIED="1607925721967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages" />

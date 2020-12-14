@@ -7,13 +7,13 @@
       "name" : "AssertionError: assert False",
       "children" : [ {
         "name" : "test_new_repository[点击新建储存库]",
-        "uid" : "8f0b07826c0114e1",
+        "uid" : "83c2f0b250d1e4f6",
         "parentUid" : "8d89788b03808d3beec6ddf8e7d75f3d",
         "status" : "failed",
         "time" : {
-          "start" : 1607934467884,
-          "stop" : 1607934472746,
-          "duration" : 4862
+          "start" : 1607938965734,
+          "stop" : 1607938971519,
+          "duration" : 5785
         },
         "flaky" : false,
         "newFailed" : false,

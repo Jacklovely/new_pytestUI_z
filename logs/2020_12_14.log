@@ -406,3 +406,59 @@ New
 2020-12-14 16:57:16,302 - root - INFO - 获取到断言元素的文本内容：Incorrect username or password.
 2020-12-14 16:57:16,302 - root - INFO - 登录结果:True
 2020-12-14 16:57:16,304 - root - INFO - 全部用例执行完后 teardown quit dirver
+2020-12-14 17:35:30,479 - root - INFO - 当前运行的操作系统为windows
+2020-12-14 17:35:39,551 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 17:35:39,611 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 17:35:39,665 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 17:35:40,504 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="js-flash-container"]/div/div
+2020-12-14 17:35:40,524 - root - INFO - 获取到断言元素的文本内容：Incorrect username or password.
+2020-12-14 17:35:40,525 - root - INFO - 登录结果:True
+2020-12-14 17:35:43,015 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="7bcd9d758583378941c399f756600418")>] successed !
+2020-12-14 17:35:52,409 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 17:35:52,476 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 17:35:52,575 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 17:35:53,372 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="repos-container"]/h2/a
+2020-12-14 17:36:03,540 - root - INFO - 定位元素出现超时！
+2020-12-14 17:36:05,948 - root - INFO - 全部用例执行完后 teardown quit dirver
+2020-12-14 17:36:36,293 - root - INFO - 当前运行的操作系统为windows
+2020-12-14 17:36:47,254 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 17:36:47,318 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 17:36:47,374 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 17:36:47,888 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="js-flash-container"]/div/div
+2020-12-14 17:36:47,910 - root - INFO - 获取到断言元素的文本内容：Incorrect username or password.
+2020-12-14 17:36:47,911 - root - INFO - 登录结果:True
+2020-12-14 17:36:50,562 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="94541a82a7a42753871787234698375c")>] successed !
+2020-12-14 17:37:05,121 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 17:37:05,186 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 17:37:05,246 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 17:37:05,906 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="repos-container"]/h2/a
+2020-12-14 17:37:16,070 - root - INFO - 定位元素出现超时！
+2020-12-14 17:37:18,501 - root - INFO - 全部用例执行完后 teardown quit dirver
+2020-12-14 17:38:47,385 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="3edb6db3b81752cf851c3013b54fc3cd")>] successed !
+2020-12-14 17:38:52,330 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 17:38:52,406 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 17:38:52,462 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 17:38:53,035 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="repos-container"]/h2/a
+2020-12-14 17:39:03,195 - root - INFO - 定位元素出现超时！
+2020-12-14 17:40:10,193 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="e49a5d78d0e697d63429610c065ba51b")>] successed !
+2020-12-14 17:41:15,233 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="5fe21000a8d5602dacec0c5480a56e6a")>] successed !
+2020-12-14 17:41:25,276 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 17:41:25,331 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 17:41:25,391 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 17:41:26,085 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="repos-container"]/h2/a
+2020-12-14 17:41:36,247 - root - INFO - 定位元素出现超时！
+2020-12-14 17:42:03,008 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="e74e430381a8f0f79e9a53c0a9ad46a5")>] successed !
+2020-12-14 17:42:20,138 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 17:42:20,192 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 17:42:20,247 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 17:42:21,159 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="js-flash-container"]/div/div
+2020-12-14 17:42:21,183 - root - INFO - 获取到断言元素的文本内容：Incorrect username or password.
+2020-12-14 17:42:21,184 - root - INFO - 登录结果:True
+2020-12-14 17:42:23,699 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="eab7067f7a783a355d57cbb31c6f749b")>] successed !
+2020-12-14 17:42:41,239 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 17:42:41,312 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 17:42:41,372 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 17:42:45,735 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="repos-container"]/h2/a
+2020-12-14 17:42:51,494 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="new_repository"]/div[1]/h1
+2020-12-14 17:42:51,517 - root - INFO - 获取到断言元素的文本内容：Create a new repository
+2020-12-14 17:42:51,517 - root - INFO - 获取结果：False
