@@ -31,9 +31,9 @@ getpathinfo.py :封装项目测试路径
 
 pytest.int :配置文件
 
-requirement.txt: 本地python包（pip install -r requirements.txt）
+requirement.txt: 本地python包（pip install -r requirements.txt 安装项目中所有python包）
 
-run_main.py: 运行文件
+run_main.py: 项目运行文件
 
 ####结构设计
 
