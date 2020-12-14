@@ -462,3 +462,10 @@ New
 2020-12-14 17:42:51,494 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="new_repository"]/div[1]/h1
 2020-12-14 17:42:51,517 - root - INFO - 获取到断言元素的文本内容：Create a new repository
 2020-12-14 17:42:51,517 - root - INFO - 获取结果：False
+2020-12-14 17:49:33,623 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="b80c18b06994585e03681273ab6a29f7")>] successed !
+2020-12-14 17:49:41,603 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 17:49:41,661 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 17:49:41,721 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 17:49:42,239 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//h2[contains(text(),'Working with a team?')]
+2020-12-14 17:49:47,271 - root - INFO - 获取text失败，返回''
+2020-12-14 17:49:47,272 - root - INFO - 获取到断言元素的文本内容：

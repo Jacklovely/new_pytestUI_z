@@ -5,6 +5,7 @@ Developer: 李万洋
 '''
 
 from common.base import Base
+from common.driver import WDriver
 from common.read_yml import ReadYaml
 testelement = ReadYaml("login_page.yml").get_yaml_data()
 
@@ -51,7 +52,8 @@ if __name__ == '__main__':
     # from selenium import webdriver
     # driver = webdriver.Chrome()
     # web = LoginPage(driver)
-    driver = Base().chromeDriver
+    driver = WDriver().chromeDriver()
+    driver.maximize_window()
     web = LoginPage(driver)
     web.login()
     result = web.is_login_success()
