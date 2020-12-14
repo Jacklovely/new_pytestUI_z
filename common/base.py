@@ -1,7 +1,7 @@
 '''
 Code description: 封装公共方法
 Create time: 2020/12/14
-Developer: 李万洋
+Developer: 叶修
 '''
 
 import os
