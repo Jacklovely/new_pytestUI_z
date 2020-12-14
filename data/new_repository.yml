@@ -1,0 +1,5 @@
+new_repositories_element:
+  - ["xpath",'//*[@id="repos-container"]/h2/a']
+  - ["xpath",'//*[@id="new_repository"]/div[1]/h1']
+success_data:
+  - ["Create a new r"]

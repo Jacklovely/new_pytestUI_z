@@ -1,0 +1,61 @@
+{
+  "fe7b55862401e4394a2ca4a1727ac39c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4d91e96d1f19a5c9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607934446456,
+        "stop" : 1607934455935,
+        "duration" : 9479
+      }
+    } ]
+  },
+  "121391a9c8e7470ec7a04d068aae32ff" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8f0b07826c0114e1",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert False",
+      "time" : {
+        "start" : 1607934467884,
+        "stop" : 1607934472746,
+        "duration" : 4862
+      }
+    } ]
+  },
+  "8e597b0c18d511c67042afc30a7ac75c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "573ff82bc5a4d6e3",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 跳过该成功用例",
+      "time" : {
+        "start" : 1607934445252,
+        "stop" : 1607934445252,
+        "duration" : 0
+      }
+    } ]
+  }
+}

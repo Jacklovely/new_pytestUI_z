@@ -1,0 +1,408 @@
+2020-12-14 09:19:19,142 - root - INFO - 正在定位元素信息：定位方式->id,value值->kw
+2020-12-14 10:06:36,359 - root - INFO - 正在定位元素信息：定位方式->id,value值->kw
+2020-12-14 10:07:51,194 - root - INFO - 正在定位元素信息：定位方式->id,value值->kw
+2020-12-14 10:29:10,993 - root - INFO - ChromeDriverServer.exe executable needs to be in PATH. Please download!
+2020-12-14 10:30:33,727 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="8401a7b51ec8337027dbd331c8d63d81")>] successed !
+2020-12-14 10:33:02,305 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="37776a75adafa2626f6c5ffcbe063659")>] successed !
+2020-12-14 10:34:23,843 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="54689d9dfeb109022a8f80c957700c9b")>] successed !
+2020-12-14 10:34:42,662 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="1d109c7dde6fad65728cbbb701b00316")>] successed !
+2020-12-14 10:34:58,080 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="1f556ba310acd5e061ad98b8305ed284")>] successed !
+2020-12-14 10:37:55,585 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="bc34c0bc5ad4962d691f4c20ea666dbf")>] successed !
+2020-12-14 10:37:56,032 - root - INFO - 正在定位元素信息：定位方式->id,value值->kw
+2020-12-14 10:38:55,144 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="1472fd053415daa3840f56a5cf9e01c3")>] successed !
+2020-12-14 10:40:57,166 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="b52fed4a36fd66b0f106b1bd7aeab426")>] successed !
+2020-12-14 10:41:33,411 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="f64878d477ade632b637756e4c0243fe")>] successed !
+2020-12-14 10:44:05,662 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="5c1ff30d8e3755094693cac2ff2f7945")>] successed !
+2020-12-14 10:45:07,755 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="5d133fe1f5788301d5f0e35df7fa3706")>] successed !
+2020-12-14 10:45:23,524 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="18a7ca305751d23cb83e2fcbcdcc4138")>] successed !
+2020-12-14 10:46:44,064 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="e07b02f1b6ede669a4632fec48a54fca")>] successed !
+2020-12-14 10:47:01,069 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="b2920104e3c07bda9e462914d58b6322")>] successed !
+2020-12-14 10:48:47,613 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="f3e26167140582c5b2165f2704616b19")>] successed !
+2020-12-14 10:48:48,052 - root - INFO - 正在定位元素信息：定位方式->id,value值->kw
+2020-12-14 10:50:26,372 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="ae480716a87929faa85afd7a9348dd86")>] successed !
+2020-12-14 10:51:54,138 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="ca026f6b30465496bd6a97ac615b3609")>] successed !
+2020-12-14 10:51:54,775 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="id_username"]
+2020-12-14 10:57:31,825 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="9f7506c3e549f15e6223efc72994d8f4")>] successed !
+2020-12-14 10:58:20,505 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="3672e6e5e896c77e0b37a1b49d56d5ab")>] successed !
+2020-12-14 10:58:20,930 - root - INFO - 正在定位元素信息：定位方式->id,value值->kw
+2020-12-14 11:00:35,907 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="3f96c847e50935ba14d2e696242d38b7")>] successed !
+2020-12-14 11:00:36,516 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="id_username"]
+2020-12-14 11:14:11,990 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="396e9759e5937309207e6957e68ca8ff")>] successed !
+2020-12-14 11:15:15,706 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="eaeb280d1bd1330e04bd554bce83042d")>] successed !
+2020-12-14 11:15:16,199 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//input[@id='TANGRAM__PSP_11__userName']
+2020-12-14 11:15:26,348 - root - INFO - 定位元素出现超时！
+2020-12-14 11:20:39,736 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="fa27f057ff3a2ee479b82b73f2b2ad87")>] successed !
+2020-12-14 11:20:41,286 - root - INFO - 正在定位元素信息：定位方式->id,value值->kw
+2020-12-14 11:21:27,302 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="405be2852fb0cc87400dc9627d619f10")>] successed !
+2020-12-14 11:21:29,002 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//input[@id='TANGRAM__PSP_11__userName']
+2020-12-14 11:21:39,169 - root - INFO - 定位元素出现超时！
+2020-12-14 11:22:13,948 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="42074e76946b41fc51c57f02fdfdc4dc")>] successed !
+2020-12-14 11:22:15,604 - root - INFO - 正在定位元素信息：定位方式->LinkText,value值->登录
+2020-12-14 11:23:42,097 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="a841810670781266843460814a085d46")>] successed !
+2020-12-14 11:23:43,725 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//body/div[@id='wrapper']/div[@id='head']/div[@id='u1']/a[1]
+2020-12-14 11:23:43,807 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//p[@id='TANGRAM__PSP_11__footerULoginBtn']
+2020-12-14 11:23:44,751 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//input[@id='TANGRAM__PSP_11__userName']
+2020-12-14 11:23:44,817 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//input[@id='TANGRAM__PSP_11__password']
+2020-12-14 11:23:44,885 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//input[@id='TANGRAM__PSP_11__submit']
+2020-12-14 11:24:05,231 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="15204be351128d160626e3e254c089c7")>] successed !
+2020-12-14 11:24:06,860 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//body/div[@id='wrapper']/div[@id='head']/div[@id='u1']/a[1]
+2020-12-14 11:24:06,934 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//p[@id='TANGRAM__PSP_11__footerULoginBtn']
+2020-12-14 11:24:07,806 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//input[@id='TANGRAM__PSP_11__userName']
+2020-12-14 11:24:07,869 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//input[@id='TANGRAM__PSP_11__password']
+2020-12-14 11:24:07,945 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//input[@id='TANGRAM__PSP_11__submit']
+2020-12-14 11:42:21,961 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="1a1ea8a9feecae5620a8a7cc686ff90d")>] successed !
+2020-12-14 11:42:39,563 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="3805d74dd05d02eafd69a47a0f061c99")>] successed !
+2020-12-14 11:42:50,836 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 11:42:50,886 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 11:42:50,943 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 11:47:50,150 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="73d8ac6cf21ec1cdfa8d03933f998319")>] successed !
+2020-12-14 11:47:54,961 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 11:47:55,017 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 11:47:55,075 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 11:48:09,553 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="repos-container"]/h2
+2020-12-14 11:48:09,577 - root - INFO - 获取到断言元素的文本内容：Repositories
+New
+2020-12-14 11:49:20,170 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="216fe03b35398d42f13a418c08b16969")>] successed !
+2020-12-14 11:49:22,451 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 11:52:32,140 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="0a4b9276a7d62619d4fa399a7a3559e6")>] successed !
+2020-12-14 11:52:36,781 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 11:52:36,833 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 11:52:36,890 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 11:52:37,609 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="js-flash-container"]/div/div
+2020-12-14 11:52:37,632 - root - INFO - 获取到断言元素的文本内容：Incorrect username or password.
+2020-12-14 11:53:06,938 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="a7dba5d71e8fcda2f58d1c73132a90a1")>] successed !
+2020-12-14 11:53:13,277 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 11:53:13,343 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 11:53:13,402 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 11:53:14,101 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="js-flash-container"]/div/div
+2020-12-14 11:53:14,124 - root - INFO - 获取到断言元素的文本内容：Incorrect username or password.
+2020-12-14 11:56:05,234 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="74bbfcee5b408988d6d737a9b67a3153")>] successed !
+2020-12-14 11:57:21,902 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="70b0b1392719ef4cc1649731c3b22cde")>] successed !
+2020-12-14 11:57:30,966 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 11:57:31,032 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 11:57:31,092 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 11:57:37,062 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="repos-container"]/h2
+2020-12-14 11:57:37,088 - root - INFO - 获取到断言元素的文本内容：Repositories
+New
+2020-12-14 11:57:37,088 - root - INFO - 登录结果：False
+2020-12-14 11:58:16,375 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="e8f52fd038b92cc0db2c08251f4dc348")>] successed !
+2020-12-14 11:58:24,044 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 11:58:24,104 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 11:58:24,168 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 11:58:39,975 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="repos-container"]/h2
+2020-12-14 11:58:40,003 - root - INFO - 获取到断言元素的文本内容：Repositories
+New
+2020-12-14 11:58:40,003 - root - INFO - 登录结果：False
+2020-12-14 13:37:18,855 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="03cb01e3131ea556b72751c4223b4a98")>] successed !
+2020-12-14 13:37:34,653 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 13:37:34,720 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 13:37:34,778 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 13:37:39,722 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="repos-container"]/h2
+2020-12-14 13:37:39,746 - root - INFO - 获取到断言元素的文本内容：Repositories
+New
+2020-12-14 13:37:39,747 - root - INFO - 登录结果：False
+2020-12-14 13:38:42,787 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="b58e03b507b28fd3d8f1e2982519131a")>] successed !
+2020-12-14 13:39:05,934 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 13:39:05,987 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 13:39:06,044 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 13:39:08,280 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="repos-container"]/h2
+2020-12-14 13:39:08,306 - root - INFO - 获取到断言元素的文本内容：Repositories
+New
+2020-12-14 13:39:08,307 - root - INFO - 登录结果：False
+2020-12-14 13:42:14,280 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="574f21e425e813ef0c9e039217d0290f")>] successed !
+2020-12-14 13:42:34,642 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 13:42:34,714 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 13:42:34,778 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 13:42:39,081 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="repos-container"]/h2
+2020-12-14 13:42:39,106 - root - INFO - 获取到断言元素的文本内容：Repositories
+New
+2020-12-14 13:42:39,107 - root - INFO - 登录结果：False
+2020-12-14 13:43:36,072 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="48f9bc02a5b83e2ede8adf8efefe1f5d")>] successed !
+2020-12-14 13:44:09,889 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="82e46c774f76741604a1831afe0462ef")>] successed !
+2020-12-14 13:44:48,906 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 13:44:48,976 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 13:44:49,039 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 13:47:18,132 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="c216a7ad6394a5bf2f3dba88c4afda32")>] successed !
+2020-12-14 13:47:35,993 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 13:47:36,048 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 13:47:36,105 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 13:49:50,475 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="75eb8b56765ba9ef57e73959ecb6cabe")>] successed !
+2020-12-14 13:50:12,992 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 13:50:13,058 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 13:50:13,118 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 13:50:27,342 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="repos-container"]/h2
+2020-12-14 13:50:27,368 - root - INFO - 获取到断言元素的文本内容：Repositories
+New
+2020-12-14 13:53:28,719 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="e6cf5b19236c61a60abc564c83c8ab77")>] successed !
+2020-12-14 13:53:47,896 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 13:53:47,953 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 13:53:48,015 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 13:53:58,902 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="repos-container"]/h2
+2020-12-14 13:53:58,928 - root - INFO - 获取到断言元素的文本内容：Repositories
+New
+2020-12-14 13:53:58,930 - root - INFO - 登录结果：False
+2020-12-14 13:58:48,074 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="cb38241fa0568d9593c6962fe6651b0f")>] successed !
+2020-12-14 13:59:06,493 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 13:59:06,559 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 13:59:06,618 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 13:59:18,673 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="repos-container"]/h2
+2020-12-14 13:59:18,699 - root - INFO - 获取到断言元素的文本内容：Repositories
+New
+2020-12-14 14:02:04,825 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="e849d6dbcf07569b45135dad0a18511e")>] successed !
+2020-12-14 14:02:15,497 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 14:02:15,552 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 14:02:15,611 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 14:02:24,264 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//h2[contains(text(),'Working with a team?')]
+2020-12-14 14:02:24,287 - root - INFO - 获取到断言元素的文本内容：Working with a team?
+2020-12-14 14:03:31,174 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="a56d0e1f6f946cc7395d201628e20301")>] successed !
+2020-12-14 14:03:40,644 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 14:03:40,696 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 14:03:40,753 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 14:03:43,736 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//h2[contains(text(),'Working with a team?')]
+2020-12-14 14:03:43,760 - root - INFO - 获取到断言元素的文本内容：Working with a team?
+2020-12-14 14:03:43,760 - root - INFO - 登录结果：True
+2020-12-14 14:05:38,002 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="7897eb23eeebea51626def5a0dd01cbd")>] successed !
+2020-12-14 14:05:54,438 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="9116ee60550abac3ef462d8b95979108")>] successed !
+2020-12-14 14:06:29,679 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="f359aa8565db1923ff21ec440542a06c")>] successed !
+2020-12-14 14:06:50,767 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="c6f9d179c8751e448c3570cabf12d4aa")>] successed !
+2020-12-14 14:07:01,156 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 14:07:01,212 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 14:07:01,271 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 14:07:04,321 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//h2[contains(text(),'Working with a team?')]
+2020-12-14 14:07:04,342 - root - INFO - 获取到断言元素的文本内容：Working with a team?
+2020-12-14 14:07:04,342 - root - INFO - 登录结果：True
+2020-12-14 14:07:06,451 - root - INFO - 当前运行的操作系统为windows
+2020-12-14 14:07:48,957 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="b46673c0f2167ef1280c8511375bc4ec")>] successed !
+2020-12-14 14:07:59,208 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 14:07:59,271 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 14:07:59,331 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 14:08:00,628 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="js-flash-container"]/div/div
+2020-12-14 14:08:00,651 - root - INFO - 获取到断言元素的文本内容：Incorrect username or password.
+2020-12-14 14:08:00,651 - root - INFO - 登录结果:True
+2020-12-14 14:37:49,988 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="e4918d206948b054a13836b48979f4a3")>] successed !
+2020-12-14 14:37:55,087 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 14:37:55,152 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 14:37:55,215 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 14:38:05,170 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 14:38:15,311 - root - INFO - 定位元素出现超时！
+2020-12-14 14:39:23,099 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="c40ac19832d1bc2f734815c1d966b323")>] successed !
+2020-12-14 14:39:28,474 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 14:39:28,548 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 14:39:28,611 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 14:39:37,453 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="repos-container"]/h2/a
+2020-12-14 14:40:03,904 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="ca7ea418cb49eeb1c977989c11b70e34")>] successed !
+2020-12-14 14:40:13,989 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 14:40:14,046 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 14:40:14,106 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 14:40:16,462 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="repos-container"]/h2/a
+2020-12-14 14:40:16,519 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="new_repository"]/div[1]/h1
+2020-12-14 14:40:26,704 - root - INFO - 定位元素出现超时！
+2020-12-14 14:40:26,704 - root - INFO - 获取text失败，返回''
+2020-12-14 14:40:26,705 - root - INFO - 获取到断言元素的文本内容：
+2020-12-14 14:40:26,705 - root - INFO - 获取结果：False
+2020-12-14 14:41:43,089 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="60bb67ea44e654fc9095789ffb6693f0")>] successed !
+2020-12-14 14:41:55,776 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 14:41:55,844 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 14:41:55,903 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 14:41:59,197 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="repos-container"]/h2/a
+2020-12-14 14:42:03,848 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="new_repository"]/div[1]/h1
+2020-12-14 14:42:03,871 - root - INFO - 获取到断言元素的文本内容：Create a new repository
+2020-12-14 14:42:03,872 - root - INFO - 获取结果：False
+2020-12-14 14:44:15,740 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="7a346b4e97c0506229499c7fdf1dcdb3")>] successed !
+2020-12-14 14:44:23,573 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 14:44:23,644 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 14:44:23,704 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 14:44:29,202 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="repos-container"]/h2/a
+2020-12-14 14:44:36,642 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="new_repository"]/div[1]/h1
+2020-12-14 14:44:36,664 - root - INFO - 获取到断言元素的文本内容：Create a new repository
+2020-12-14 14:48:40,159 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="85c42045915f78cacf86c3861725abd5")>] successed !
+2020-12-14 14:48:49,514 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 14:48:49,581 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 14:48:49,641 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 14:49:40,712 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="repos-container"]/h2/a
+2020-12-14 14:49:47,915 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="new_repository"]/div[1]/h1
+2020-12-14 14:49:47,941 - root - INFO - 获取到断言元素的文本内容：Create a new repository
+2020-12-14 14:49:47,941 - root - INFO - 获取结果：False
+2020-12-14 14:50:54,347 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="b981ca7b94ca5c7a843e3cca8989309c")>] successed !
+2020-12-14 14:51:06,001 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 14:51:06,057 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 14:51:06,118 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 14:51:08,766 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="repos-container"]/h2/a
+2020-12-14 14:51:14,069 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="new_repository"]/div[1]/h1
+2020-12-14 14:51:14,090 - root - INFO - 获取到断言元素的文本内容：Create a new repository
+2020-12-14 14:51:14,090 - root - INFO - 获取结果：False
+2020-12-14 14:52:32,169 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="3b94821d910dbbed9826327ebd52f782")>] successed !
+2020-12-14 14:52:39,770 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 14:52:39,826 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 14:52:39,886 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 14:52:44,059 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//h2[contains(text(),'Working with a team?')]
+2020-12-14 14:52:44,084 - root - INFO - 获取到断言元素的文本内容：Working with a team?
+2020-12-14 14:52:44,085 - root - INFO - 登录结果：True
+2020-12-14 14:53:44,371 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="94ba0201c84e582c5a7adb7ccd4adc3b")>] successed !
+2020-12-14 14:53:49,782 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 14:53:49,839 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 14:53:49,899 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 14:53:52,088 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="repos-container"]/h2/a
+2020-12-14 14:53:56,217 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="new_repository"]/div[1]/h1
+2020-12-14 14:53:56,237 - root - INFO - 获取到断言元素的文本内容：Create a new repository
+2020-12-14 14:53:56,237 - root - INFO - 获取结果：True
+2020-12-14 14:55:12,043 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="bf355a5a90c672738801c3515c106310")>] successed !
+2020-12-14 14:55:31,155 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 14:55:31,210 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 14:55:31,269 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 14:55:33,889 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//h2[contains(text(),'Working with a team?')]
+2020-12-14 14:55:33,913 - root - INFO - 获取到断言元素的文本内容：Working with a team?
+2020-12-14 14:55:33,914 - root - INFO - 登录结果：True
+2020-12-14 14:58:30,841 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="41a52db3c5e0be9d668948dd46a475a3")>] successed !
+2020-12-14 14:58:46,664 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 14:58:46,719 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 14:58:46,777 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 14:58:49,174 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//h2[contains(text(),'Working with a team?')]
+2020-12-14 14:58:49,197 - root - INFO - 获取到断言元素的文本内容：Working with a team?
+2020-12-14 14:58:49,197 - root - INFO - 登录结果：True
+2020-12-14 14:59:18,661 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 14:59:28,833 - root - INFO - 定位元素出现超时！
+2020-12-14 14:59:33,493 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 14:59:43,686 - root - INFO - 定位元素出现超时！
+2020-12-14 15:00:01,489 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="80c5050b2d495b6c2e603b39386a4bfe")>] successed !
+2020-12-14 15:00:16,776 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 15:00:16,843 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 15:00:16,904 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 15:00:23,918 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//h2[contains(text(),'Working with a team?')]
+2020-12-14 15:00:23,942 - root - INFO - 获取到断言元素的文本内容：Working with a team?
+2020-12-14 15:00:23,943 - root - INFO - 登录结果：True
+2020-12-14 15:00:26,496 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 15:01:08,550 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="36435e82bb7378286bf5dfb1e270447b")>] successed !
+2020-12-14 15:01:14,382 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 15:01:14,437 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 15:01:14,494 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 15:01:17,419 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//h2[contains(text(),'Working with a team?')]
+2020-12-14 15:01:17,442 - root - INFO - 获取到断言元素的文本内容：Working with a team?
+2020-12-14 15:01:17,442 - root - INFO - 登录结果：True
+2020-12-14 15:07:57,442 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="f963383cbd99cc655327b6e2a62bc24e")>] successed !
+2020-12-14 15:08:09,082 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 15:08:09,139 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 15:08:09,202 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 15:08:11,136 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//h2[contains(text(),'Working with a team?')]
+2020-12-14 15:08:11,157 - root - INFO - 获取到断言元素的文本内容：Working with a team?
+2020-12-14 15:08:11,158 - root - INFO - 登录结果：True
+2020-12-14 15:17:18,687 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="aac376dabd85fc7e65eeb3eae1cbdac9")>] successed !
+2020-12-14 15:18:26,874 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="c2045f9325d1c514c5ed1d2a9610744e")>] successed !
+2020-12-14 15:19:31,524 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="83f347b731706745a3424c3b37db4db3")>] successed !
+2020-12-14 15:20:58,684 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="d0535dce0b5d138c24f1fdea3f43dbf3")>] successed !
+2020-12-14 15:25:06,444 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="e880891d0f6c056e2cab59034c99c1bf")>] successed !
+2020-12-14 15:29:11,999 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="febb35d1fa2f5e8684508e6b67516b35")>] successed !
+2020-12-14 15:29:22,882 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 15:29:22,937 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 15:29:22,997 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 15:29:25,429 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//h2[contains(text(),'Working with a team?')]
+2020-12-14 15:29:25,456 - root - INFO - 获取到断言元素的文本内容：Working with a team?
+2020-12-14 15:29:25,457 - root - INFO - 登录结果：True
+2020-12-14 15:31:00,199 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="ac987af00b685ea83d2f119cf7bdc25b")>] successed !
+2020-12-14 15:33:47,367 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="e50bb2ec39e6b62b3e7c7120e30045bd")>] successed !
+2020-12-14 15:36:01,246 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="31afd9900eca306f1241457ea4ec15cd")>] successed !
+2020-12-14 15:41:13,350 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="a769aeb6fd28000f9e2207215eb362bb")>] successed !
+2020-12-14 15:49:43,008 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="4c131e3e62f62af26cc6d3b51e357b98")>] successed !
+2020-12-14 15:50:19,181 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="c5c7d5306a7d839ed6cc75e0216c3b04")>] successed !
+2020-12-14 15:50:20,299 - root - INFO - opened the browser successed!
+2020-12-14 15:50:22,390 - root - INFO - quit the browser success!
+2020-12-14 15:52:37,556 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="c6974697e6522975e32d58c0a0d133cb")>] successed !
+2020-12-14 15:52:40,313 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="8f1e80f9e9db1cdce84a8b2478d0d130")>] successed !
+2020-12-14 15:56:08,198 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="78139a36063f8071ef30f4608489e20c")>] successed !
+2020-12-14 15:56:10,888 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="2662b702c7aa0aeeff1eeff3b45c1a81")>] successed !
+2020-12-14 15:56:14,573 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="5e23084a1618c8a6a014844de3ea3d2a")>] successed !
+2020-12-14 15:56:15,693 - root - INFO - opened the browser successed!
+2020-12-14 15:56:17,851 - root - INFO - quit the browser success!
+2020-12-14 16:13:32,259 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="f94e02f5a465d6e3e0430170af0b76fe")>] successed !
+2020-12-14 16:13:34,953 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="69ce857480f5cc8c0149a1b966fd278e")>] successed !
+2020-12-14 16:18:55,484 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="b4ae689d33a465316ab287127b72fde8")>] successed !
+2020-12-14 16:19:12,775 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 16:19:12,830 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 16:19:12,889 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 16:19:20,649 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//h2[contains(text(),'Working with a team?')]
+2020-12-14 16:19:20,674 - root - INFO - 获取到断言元素的文本内容：Working with a team?
+2020-12-14 16:19:20,674 - root - INFO - 登录结果：True
+2020-12-14 16:19:34,661 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="4690dfada595112c6c1063e4ed9c592f")>] successed !
+2020-12-14 16:19:43,813 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 16:19:43,867 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 16:19:43,928 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 16:19:45,998 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//h2[contains(text(),'Working with a team?')]
+2020-12-14 16:19:46,020 - root - INFO - 获取到断言元素的文本内容：Working with a team?
+2020-12-14 16:19:46,020 - root - INFO - 登录结果：True
+2020-12-14 16:20:28,917 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="d3f2ab1b71785f0b9546e2e1893e46e1")>] successed !
+2020-12-14 16:20:57,272 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 16:20:57,341 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 16:20:57,400 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 16:21:50,899 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//h2[contains(text(),'Working with a team?')]
+2020-12-14 16:21:50,923 - root - INFO - 获取到断言元素的文本内容：Working with a team?
+2020-12-14 16:21:50,924 - root - INFO - 登录结果：True
+2020-12-14 16:21:54,527 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 16:22:04,669 - root - INFO - 定位元素出现超时！
+2020-12-14 16:23:27,075 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="006bf34aee2b4a9662212f9533ccbb59")>] successed !
+2020-12-14 16:23:58,248 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 16:23:58,309 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 16:23:58,371 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 16:24:07,044 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//h2[contains(text(),'Working with a team?')]
+2020-12-14 16:24:07,071 - root - INFO - 获取到断言元素的文本内容：Working with a team?
+2020-12-14 16:24:07,072 - root - INFO - 登录结果：True
+2020-12-14 16:24:23,974 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 16:24:34,115 - root - INFO - 定位元素出现超时！
+2020-12-14 16:26:05,335 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="654d3bdf8822fb9c2e2e553fd39c7d7b")>] successed !
+2020-12-14 16:26:16,780 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 16:26:16,836 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 16:26:16,894 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 16:26:20,553 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//h2[contains(text(),'Working with a team?')]
+2020-12-14 16:26:20,578 - root - INFO - 获取到断言元素的文本内容：Working with a team?
+2020-12-14 16:26:20,579 - root - INFO - 登录结果：True
+2020-12-14 16:26:28,413 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 16:26:38,544 - root - INFO - 定位元素出现超时！
+2020-12-14 16:27:25,128 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="13b2a256db11967612819d7be66813dd")>] successed !
+2020-12-14 16:27:35,220 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 16:27:35,270 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 16:27:35,330 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 16:27:35,909 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="js-flash-container"]/div/div
+2020-12-14 16:27:35,933 - root - INFO - 获取到断言元素的文本内容：Incorrect username or password.
+2020-12-14 16:27:35,934 - root - INFO - 登录结果:True
+2020-12-14 16:27:36,356 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 16:27:36,404 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 16:27:36,450 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 16:27:47,889 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="repos-container"]/h2/a
+2020-12-14 16:27:52,720 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="new_repository"]/div[1]/h1
+2020-12-14 16:27:52,744 - root - INFO - 获取到断言元素的文本内容：Create a new repository
+2020-12-14 16:27:52,744 - root - INFO - 获取结果：False
+2020-12-14 16:30:56,868 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="dac14086dbc3b1f0f957d2ab3e86e69f")>] successed !
+2020-12-14 16:31:29,542 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="898c5901686a122b107dc3cad6073b62")>] successed !
+2020-12-14 16:31:29,678 - root - INFO - 当前运行的操作系统为windows
+2020-12-14 16:37:02,621 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="30e8d9f2172e9e1a5664f8794d9cbb76")>] successed !
+2020-12-14 16:37:02,760 - root - INFO - 当前运行的操作系统为windows
+2020-12-14 16:37:11,208 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 16:37:11,271 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 16:37:11,331 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 16:37:11,828 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="js-flash-container"]/div/div
+2020-12-14 16:37:11,848 - root - INFO - 获取到断言元素的文本内容：Incorrect username or password.
+2020-12-14 16:37:11,848 - root - INFO - 登录结果:True
+2020-12-14 16:37:11,872 - root - INFO - 全部用例执行完后 teardown quit dirver
+2020-12-14 16:37:30,377 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="2c1747b1f2674620214c6450570d3721")>] successed !
+2020-12-14 16:37:30,512 - root - INFO - 当前运行的操作系统为windows
+2020-12-14 16:37:48,787 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 16:37:48,847 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 16:37:48,904 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 16:37:49,420 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="js-flash-container"]/div/div
+2020-12-14 16:37:49,439 - root - INFO - 获取到断言元素的文本内容：Incorrect username or password.
+2020-12-14 16:37:49,440 - root - INFO - 登录结果:True
+2020-12-14 16:37:49,441 - root - INFO - 全部用例执行完后 teardown quit dirver
+2020-12-14 16:56:25,882 - root - INFO - chromeDriver:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="c5aaf3e418a7db0a458f587483dde07a")>] successed !
+2020-12-14 16:56:36,436 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 16:56:36,491 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 16:56:36,556 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 16:56:38,796 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//h2[contains(text(),'Working with a team?')]
+2020-12-14 16:56:38,820 - root - INFO - 获取到断言元素的文本内容：Working with a team?
+2020-12-14 16:56:38,821 - root - INFO - 登录结果：True
+2020-12-14 16:56:54,531 - root - INFO - 当前运行的操作系统为windows
+2020-12-14 16:57:15,603 - root - INFO - 正在定位元素信息：定位方式->id,value值->login_field
+2020-12-14 16:57:15,677 - root - INFO - 正在定位元素信息：定位方式->id,value值->password
+2020-12-14 16:57:15,733 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="login"]/form/div[4]/input[12]
+2020-12-14 16:57:16,282 - root - INFO - 正在定位元素信息：定位方式->xpath,value值->//*[@id="js-flash-container"]/div/div
+2020-12-14 16:57:16,302 - root - INFO - 获取到断言元素的文本内容：Incorrect username or password.
+2020-12-14 16:57:16,302 - root - INFO - 登录结果:True
+2020-12-14 16:57:16,304 - root - INFO - 全部用例执行完后 teardown quit dirver

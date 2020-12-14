@@ -1,0 +1,74 @@
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:54535/session/41a52db3c5e0be9d668948dd46a475a3/window/maximize {}
+DEBUG    urllib3.connectionpool:connectionpool.py:396 http://127.0.0.1:54535 "POST /session/41a52db3c5e0be9d668948dd46a475a3/window/maximize HTTP/1.1" 200 52
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:54535/session/41a52db3c5e0be9d668948dd46a475a3/window/maximize {}
+DEBUG    urllib3.connectionpool:connectionpool.py:396 http://127.0.0.1:54535 "POST /session/41a52db3c5e0be9d668948dd46a475a3/window/maximize HTTP/1.1" 200 52
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:54535/session/41a52db3c5e0be9d668948dd46a475a3/url {"url": "https://github.com/login"}
+DEBUG    urllib3.connectionpool:connectionpool.py:396 http://127.0.0.1:54535 "POST /session/41a52db3c5e0be9d668948dd46a475a3/url HTTP/1.1" 200 14
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+INFO     root:log.py:39 正在定位元素信息：定位方式->id,value值->login_field
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:54535/session/41a52db3c5e0be9d668948dd46a475a3/element {"using": "css selector", "value": "[id=\"login_field\"]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:396 http://127.0.0.1:54535 "POST /session/41a52db3c5e0be9d668948dd46a475a3/element HTTP/1.1" 404 1058
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:54535/session/41a52db3c5e0be9d668948dd46a475a3/element {"using": "css selector", "value": "[id=\"login_field\"]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:396 http://127.0.0.1:54535 "POST /session/41a52db3c5e0be9d668948dd46a475a3/element HTTP/1.1" 404 1058
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:54535/session/41a52db3c5e0be9d668948dd46a475a3/element {"using": "css selector", "value": "[id=\"login_field\"]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:396 http://127.0.0.1:54535 "POST /session/41a52db3c5e0be9d668948dd46a475a3/element HTTP/1.1" 404 1058
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:54535/session/41a52db3c5e0be9d668948dd46a475a3/element {"using": "css selector", "value": "[id=\"login_field\"]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:396 http://127.0.0.1:54535 "POST /session/41a52db3c5e0be9d668948dd46a475a3/element HTTP/1.1" 404 1058
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:54535/session/41a52db3c5e0be9d668948dd46a475a3/element {"using": "css selector", "value": "[id=\"login_field\"]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:396 http://127.0.0.1:54535 "POST /session/41a52db3c5e0be9d668948dd46a475a3/element HTTP/1.1" 404 1058
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:54535/session/41a52db3c5e0be9d668948dd46a475a3/element {"using": "css selector", "value": "[id=\"login_field\"]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:396 http://127.0.0.1:54535 "POST /session/41a52db3c5e0be9d668948dd46a475a3/element HTTP/1.1" 404 1058
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:54535/session/41a52db3c5e0be9d668948dd46a475a3/element {"using": "css selector", "value": "[id=\"login_field\"]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:396 http://127.0.0.1:54535 "POST /session/41a52db3c5e0be9d668948dd46a475a3/element HTTP/1.1" 404 1058
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:54535/session/41a52db3c5e0be9d668948dd46a475a3/element {"using": "css selector", "value": "[id=\"login_field\"]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:396 http://127.0.0.1:54535 "POST /session/41a52db3c5e0be9d668948dd46a475a3/element HTTP/1.1" 404 1058
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:54535/session/41a52db3c5e0be9d668948dd46a475a3/element {"using": "css selector", "value": "[id=\"login_field\"]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:396 http://127.0.0.1:54535 "POST /session/41a52db3c5e0be9d668948dd46a475a3/element HTTP/1.1" 404 1058
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:54535/session/41a52db3c5e0be9d668948dd46a475a3/element {"using": "css selector", "value": "[id=\"login_field\"]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:396 http://127.0.0.1:54535 "POST /session/41a52db3c5e0be9d668948dd46a475a3/element HTTP/1.1" 404 1058
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:54535/session/41a52db3c5e0be9d668948dd46a475a3/element {"using": "css selector", "value": "[id=\"login_field\"]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:396 http://127.0.0.1:54535 "POST /session/41a52db3c5e0be9d668948dd46a475a3/element HTTP/1.1" 404 1058
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:54535/session/41a52db3c5e0be9d668948dd46a475a3/element {"using": "css selector", "value": "[id=\"login_field\"]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:396 http://127.0.0.1:54535 "POST /session/41a52db3c5e0be9d668948dd46a475a3/element HTTP/1.1" 404 1058
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:54535/session/41a52db3c5e0be9d668948dd46a475a3/element {"using": "css selector", "value": "[id=\"login_field\"]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:396 http://127.0.0.1:54535 "POST /session/41a52db3c5e0be9d668948dd46a475a3/element HTTP/1.1" 404 1058
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:54535/session/41a52db3c5e0be9d668948dd46a475a3/element {"using": "css selector", "value": "[id=\"login_field\"]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:396 http://127.0.0.1:54535 "POST /session/41a52db3c5e0be9d668948dd46a475a3/element HTTP/1.1" 404 1058
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:54535/session/41a52db3c5e0be9d668948dd46a475a3/element {"using": "css selector", "value": "[id=\"login_field\"]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:396 http://127.0.0.1:54535 "POST /session/41a52db3c5e0be9d668948dd46a475a3/element HTTP/1.1" 404 1058
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:54535/session/41a52db3c5e0be9d668948dd46a475a3/element {"using": "css selector", "value": "[id=\"login_field\"]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:396 http://127.0.0.1:54535 "POST /session/41a52db3c5e0be9d668948dd46a475a3/element HTTP/1.1" 404 1058
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:54535/session/41a52db3c5e0be9d668948dd46a475a3/element {"using": "css selector", "value": "[id=\"login_field\"]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:396 http://127.0.0.1:54535 "POST /session/41a52db3c5e0be9d668948dd46a475a3/element HTTP/1.1" 404 1058
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:54535/session/41a52db3c5e0be9d668948dd46a475a3/element {"using": "css selector", "value": "[id=\"login_field\"]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:396 http://127.0.0.1:54535 "POST /session/41a52db3c5e0be9d668948dd46a475a3/element HTTP/1.1" 404 1058
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:54535/session/41a52db3c5e0be9d668948dd46a475a3/element {"using": "css selector", "value": "[id=\"login_field\"]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:396 http://127.0.0.1:54535 "POST /session/41a52db3c5e0be9d668948dd46a475a3/element HTTP/1.1" 404 1058
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:54535/session/41a52db3c5e0be9d668948dd46a475a3/element {"using": "css selector", "value": "[id=\"login_field\"]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:396 http://127.0.0.1:54535 "POST /session/41a52db3c5e0be9d668948dd46a475a3/element HTTP/1.1" 404 1058
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+INFO     root:log.py:39 定位元素出现超时！
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 DELETE http://127.0.0.1:54535/session/41a52db3c5e0be9d668948dd46a475a3 {}
+DEBUG    urllib3.connectionpool:connectionpool.py:396 http://127.0.0.1:54535 "DELETE /session/41a52db3c5e0be9d668948dd46a475a3 HTTP/1.1" 200 14
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request

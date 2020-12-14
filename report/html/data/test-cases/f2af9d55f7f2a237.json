@@ -1,0 +1,160 @@
+{
+  "uid" : "f2af9d55f7f2a237",
+  "name" : "test_success_login[正确用户名密码登录]",
+  "fullName" : "case.test_login.Test_login#test_success_login",
+  "historyId" : "8e597b0c18d511c67042afc30a7ac75c",
+  "time" : {
+    "start" : 1607928912262,
+    "stop" : 1607928936022,
+    "duration" : 23760
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "base_url",
+    "time" : {
+      "start" : 1607928912239,
+      "stop" : 1607928912239,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "_verify_url",
+    "time" : {
+      "start" : 1607928912240,
+      "stop" : 1607928912240,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1607928912167,
+      "stop" : 1607928912239,
+      "duration" : 72
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "获取结果: 获取页面实际结果，判断是否登录成功",
+      "time" : {
+        "start" : 1607928933889,
+        "stop" : 1607928933914,
+        "duration" : 25
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "断言：判断是否登录成功",
+      "time" : {
+        "start" : 1607928933914,
+        "stop" : 1607928933914,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "ed759e79aa0d3028",
+      "name" : "log",
+      "source" : "ed759e79aa0d3028.txt",
+      "type" : "text/plain",
+      "size" : 148926
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 2,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "功能点：用户登录页面"
+  }, {
+    "name" : "story",
+    "value" : "用例：用户登录"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_login"
+  }, {
+    "name" : "host",
+    "value" : "PC-20200723MDZP"
+  }, {
+    "name" : "thread",
+    "value" : "4156-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "msg",
+    "value" : "'Working with a team?'"
+  }, {
+    "name" : "password",
+    "value" : "'li..668566'"
+  }, {
+    "name" : "username",
+    "value" : "'hanxi978@163.com'"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f2af9d55f7f2a237.json",
+  "parameterValues" : [ "'Working with a team?'", "'li..668566'", "'hanxi978@163.com'" ]
+}

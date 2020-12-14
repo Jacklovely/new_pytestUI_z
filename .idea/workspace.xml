@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="073f202d-8443-49eb-b782-e3c031ad8228" name="Default Changelist" comment="修改选择浏览器，前置打开浏览器" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/pytestUI$pytest_for_test_login_Test_login_test_success_login.coverage" NAME="pytest for test_login.Test_login.test_success_login Coverage Results" MODIFIED="1599027239091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/pytestUI$pytest_for_test_add_account_Test_Add_Account_test_add_account1.coverage" NAME="pytest for test_add_account.Test_Add_Account.test_add_account1 Coverage Results" MODIFIED="1599027265989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/pytestUI$pytest_for_test_add_account_Test_Add_Account_test_add_account.coverage" NAME="pytest for test_add_account.Test_Add_Account.test_add_account Coverage Results" MODIFIED="1599467701508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/pytestUI$pytest_for_test_login_Test_login_test_fail_login.coverage" NAME="pytest for test_login.Test_login.test_fail_login Coverage Results" MODIFIED="1599027244943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="1hcZHV0Mp6BkM2mVBD9wkV9ozRz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\pytestUI\common" />
+      <recent name="F:\pytestUI\main" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\pytestUI" />
+      <recent name="F:\pytestUI\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for test_login.Test_login.test_fail_login">
+    <configuration name="run_main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pytestUI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_login.Test_login" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pytestUI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_login.Test_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_login.Test_login.test_fail_login" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pytestUI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_login.Test_login.test_fail_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_login.Test_login.test_success_login" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pytestUI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_login.Test_login.test_success_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in mytest.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pytestUI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/common/mytest.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for test_login.Test_login.test_fail_login" />
+        <item itemvalue="Python tests.pytest for test_login.Test_login.test_success_login" />
+        <item itemvalue="Python.run_main (1)" />
+        <item itemvalue="Python tests.pytest for test_login.Test_login" />
+        <item itemvalue="Python tests.pytest in mytest.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="073f202d-8443-49eb-b782-e3c031ad8228" name="Default Changelist" comment="" />
+      <created>1595822302337</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595822302337</updated>
+      <workItem from="1595822303408" duration="16000" />
+      <workItem from="1595822340656" duration="4000" />
+      <workItem from="1595822361228" duration="13000" />
+      <workItem from="1596422749811" duration="8000" />
+      <workItem from="1597627433141" duration="14000" />
+      <workItem from="1597980171134" duration="1612000" />
+      <workItem from="1599026907616" duration="397000" />
+      <workItem from="1599038637530" duration="226000" />
+      <workItem from="1599039014039" duration="37000" />
+      <workItem from="1599105190857" duration="617000" />
+      <workItem from="1599126338507" duration="8000" />
+      <workItem from="1599467670921" duration="44000" />
+      <workItem from="1599727600580" duration="409000" />
+      <workItem from="1599728961630" duration="6000" />
+      <workItem from="1600140733922" duration="12000" />
+      <workItem from="1600140873910" duration="96000" />
+      <workItem from="1600141008682" duration="26000" />
+      <workItem from="1600142028951" duration="659000" />
+      <workItem from="1600150573223" duration="16000" />
+      <workItem from="1600312254195" duration="5233000" />
+      <workItem from="1600422129467" duration="9000" />
+      <workItem from="1602302056919" duration="924000" />
+      <workItem from="1602732501320" duration="106000" />
+      <workItem from="1603867630374" duration="95000" />
+      <workItem from="1604480461972" duration="1564000" />
+      <workItem from="1604536526283" duration="16000" />
+      <workItem from="1604536558960" duration="17000" />
+      <workItem from="1604634322985" duration="35000" />
+      <workItem from="1604651474483" duration="949000" />
+      <workItem from="1604653038008" duration="1109000" />
+      <workItem from="1604654420041" duration="869000" />
+      <workItem from="1605239484538" duration="19000" />
+      <workItem from="1605747432223" duration="4000" />
+      <workItem from="1606377358249" duration="905000" />
+      <workItem from="1606468756385" duration="910000" />
+      <workItem from="1606785865800" duration="5728000" />
+      <workItem from="1606808131442" duration="27000" />
+      <workItem from="1607331686000" duration="323000" />
+      <workItem from="1607332060557" duration="483000" />
+      <workItem from="1607399556112" duration="365000" />
+      <workItem from="1607481594692" duration="412000" />
+      <workItem from="1607493982574" duration="784000" />
+      <workItem from="1607907718728" duration="22897000" />
+      <workItem from="1607935927066" duration="1580000" />
+    </task>
+    <task id="LOCAL-00001" summary="失败截图">
+      <created>1600322409360</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600322409360</updated>
+    </task>
+    <task id="LOCAL-00002" summary="失败截图">
+      <created>1607914397402</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607914397402</updated>
+    </task>
+    <task id="LOCAL-00003" summary="修改选择浏览器，前置打开浏览器">
+      <created>1607935266636</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607935266636</updated>
+    </task>
+    <task id="LOCAL-00004" summary="修改选择浏览器，前置打开浏览器">
+      <created>1607935422967</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607935422967</updated>
+    </task>
+    <task id="LOCAL-00005" summary="修改选择浏览器，前置打开浏览器">
+      <created>1607936264438</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607936264438</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="失败截图" />
+    <MESSAGE value="修改选择浏览器，前置打开浏览器" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改选择浏览器，前置打开浏览器" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="898" y="448" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607933000325">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="898" y="448" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607933000325" />
+    <state x="560" y="0" key="CommitChangelistDialog2" timestamp="1607936504112">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="560" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1607936504112" />
+    <state width="1075" height="618" key="DebuggerActiveHint" timestamp="1607925466733">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1075" height="618" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1607925466733" />
+    <state x="803" y="294" key="FileChooserDialogImpl" timestamp="1607937505723">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="803" y="294" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607937505723" />
+    <state x="850" y="428" key="Github.ShareDialog" timestamp="1607937316030">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="850" y="428" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607937316030" />
+    <state x="827" y="185" key="Github.UntrackedFilesDialog" timestamp="1607937333408">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="827" y="185" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607937333408" />
+    <state width="1235" height="175" key="GridCell.Tab.0.bottom" timestamp="1607937507265">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1235" height="175" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607937507265" />
+    <state width="1235" height="175" key="GridCell.Tab.0.center" timestamp="1607937507265">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1235" height="175" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607937507265" />
+    <state width="1235" height="175" key="GridCell.Tab.0.left" timestamp="1607937507265">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1235" height="175" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607937507265" />
+    <state width="1235" height="175" key="GridCell.Tab.0.right" timestamp="1607937507265">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1235" height="175" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607937507265" />
+    <state width="1310" height="180" key="GridCell.Tab.1.bottom" timestamp="1607935688770">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1310" height="180" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607935688770" />
+    <state width="1310" height="180" key="GridCell.Tab.1.center" timestamp="1607935688770">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1310" height="180" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607935688770" />
+    <state width="1310" height="180" key="GridCell.Tab.1.left" timestamp="1607935688770">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1310" height="180" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607935688770" />
+    <state width="1310" height="180" key="GridCell.Tab.1.right" timestamp="1607935688770">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1310" height="180" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607935688770" />
+    <state x="484" y="216" key="SettingsEditor" timestamp="1606807351001">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="484" y="216" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606807351001" />
+    <state x="554" y="240" key="Vcs.Push.Dialog.v2" timestamp="1607937047679">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="554" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607937047679" />
+    <state x="491" y="201" width="1170" height="673" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1607926978307">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="491" y="201" width="1170" height="673" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607926978307" />
+    <state x="491" y="201" width="1170" height="673" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1607926978307">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="491" y="201" width="1170" height="673" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607926978307" />
+    <state x="747" y="474" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607936956113">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="747" y="474" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607936956113" />
+    <state x="799" y="310" key="git4idea.merge.GitPullDialog" timestamp="1607914506292">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="799" y="310" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607914506292" />
+    <state x="738" y="313" key="git4idea.ui.GitUnstashDialog" timestamp="1607935626526">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="738" y="313" key="git4idea.ui.GitUnstashDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607935626526" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pytestUI$pytest_for_test_add_account_Test_Add_Account_test_add_account.coverage" NAME="pytest for test_add_account.Test_Add_Account.test_add_account Coverage Results" MODIFIED="1600313362055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/pytestUI$driver.coverage" NAME="driver Coverage Results" MODIFIED="1607913279798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/pytestUI$pytest_for_test_login_Test_login.coverage" NAME="pytest for test_login.Test_login Coverage Results" MODIFIED="1607934361716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/new_pytestUI$pytest_for_test_login_Test_login_test_success_login.coverage" NAME="pytest for test_login.Test_login.test_success_login Coverage Results" MODIFIED="1607936181965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/pytestUI$read_yml.coverage" NAME="read_yml Coverage Results" MODIFIED="1606789393191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/pytestUI$pytest_in_test_1_py.coverage" NAME="pytest in mytest.py Coverage Results" MODIFIED="1607932215533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/pytestUI$pytest_for_test_login_Test_login_test_fail_login.coverage" NAME="pytest for test_login.Test_login.test_fail_login Coverage Results" MODIFIED="1607935046847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/pytestUI$run_main__1_.coverage" NAME="run_main (1) Coverage Results" MODIFIED="1607934441545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytestUI$service.coverage" NAME="service Coverage Results" MODIFIED="1607911135789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/python/Lib/site-packages/selenium/webdriver/common" />
+    <SUITE FILE_PATH="coverage/pytestUI$base.coverage" NAME="base Coverage Results" MODIFIED="1607916036820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/pytestUI$run_main.coverage" NAME="run_main Coverage Results" MODIFIED="1607928870713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
+    <SUITE FILE_PATH="coverage/pytestUI$getpathinfo.coverage" NAME="getpathinfo Coverage Results" MODIFIED="1607910684655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytestUI$pytest_for_test_new_repository_Test_New_Repository_test_new_repository.coverage" NAME="pytest for test_new_repository.Test_New_Repository.test_new_repository Coverage Results" MODIFIED="1607928820862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/pytestUI$login_page.coverage" NAME="login_page Coverage Results" MODIFIED="1607925721967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages" />
+    <SUITE FILE_PATH="coverage/new_pytestUI$pytest_for_test_login_Test_login_test_fail_login.coverage" NAME="pytest for test_login.Test_login.test_fail_login Coverage Results" MODIFIED="1607936213437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/pytestUI$input.coverage" NAME="input Coverage Results" MODIFIED="1607481922979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages" />
+    <SUITE FILE_PATH="coverage/pytestUI$pytest_for_test_login_Test_login_test_success_login.coverage" NAME="pytest for test_login.Test_login.test_success_login Coverage Results" MODIFIED="1607934653317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+  </component>
+</project>

@@ -1,0 +1,60 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "功能点：用户登录页面",
+    "children" : [ {
+      "name" : "用例：用户登录",
+      "children" : [ {
+        "name" : "test_success_login[正确用户名密码登录]",
+        "uid" : "573ff82bc5a4d6e3",
+        "parentUid" : "21d352f918b3ae5ca6f89897ee7b63e1",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1607934445252,
+          "stop" : 1607934445252,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'Working with a team?'", "'li..668566'", "'hanxi978@163.com'" ]
+      }, {
+        "name" : "test_fail_login[错误用户名正确密码登录]",
+        "uid" : "4d91e96d1f19a5c9",
+        "parentUid" : "21d352f918b3ae5ca6f89897ee7b63e1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607934446456,
+          "stop" : 1607934455935,
+          "duration" : 9479
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'Incorrect username or password.'", "'li..668566'", "'hanxi.com'" ]
+      } ],
+      "uid" : "21d352f918b3ae5ca6f89897ee7b63e1"
+    } ],
+    "uid" : "5acfc454b183688458f0f790b47f81cd"
+  }, {
+    "name" : "功能点：新建储存库",
+    "children" : [ {
+      "name" : "用例：新建储存库",
+      "children" : [ {
+        "name" : "test_new_repository[点击新建储存库]",
+        "uid" : "8f0b07826c0114e1",
+        "parentUid" : "05338271a289cc8a796eb2a262a36206",
+        "status" : "failed",
+        "time" : {
+          "start" : 1607934467884,
+          "stop" : 1607934472746,
+          "duration" : 4862
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "['Create a new r']" ]
+      } ],
+      "uid" : "05338271a289cc8a796eb2a262a36206"
+    } ],
+    "uid" : "2c2ede71ae0475aa43ecd11d00808318"
+  } ]
+}

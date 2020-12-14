@@ -1,0 +1,31 @@
+[ {
+  "uid" : "8f0b07826c0114e1",
+  "name" : "test_new_repository[点击新建储存库]",
+  "time" : {
+    "start" : 1607934467884,
+    "stop" : 1607934472746,
+    "duration" : 4862
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "4d91e96d1f19a5c9",
+  "name" : "test_fail_login[错误用户名正确密码登录]",
+  "time" : {
+    "start" : 1607934446456,
+    "stop" : 1607934455935,
+    "duration" : 9479
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "573ff82bc5a4d6e3",
+  "name" : "test_success_login[正确用户名密码登录]",
+  "time" : {
+    "start" : 1607934445252,
+    "stop" : 1607934445252,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+} ]

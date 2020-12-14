@@ -1,0 +1,64 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "case",
+    "children" : [ {
+      "name" : "test_login",
+      "children" : [ {
+        "name" : "Test_login",
+        "children" : [ {
+          "name" : "test_success_login[正确用户名密码登录]",
+          "uid" : "573ff82bc5a4d6e3",
+          "parentUid" : "5904d6801a1db3c7be607fb63efa86b5",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1607934445252,
+            "stop" : 1607934445252,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'Working with a team?'", "'li..668566'", "'hanxi978@163.com'" ]
+        }, {
+          "name" : "test_fail_login[错误用户名正确密码登录]",
+          "uid" : "4d91e96d1f19a5c9",
+          "parentUid" : "5904d6801a1db3c7be607fb63efa86b5",
+          "status" : "passed",
+          "time" : {
+            "start" : 1607934446456,
+            "stop" : 1607934455935,
+            "duration" : 9479
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'Incorrect username or password.'", "'li..668566'", "'hanxi.com'" ]
+        } ],
+        "uid" : "5904d6801a1db3c7be607fb63efa86b5"
+      } ],
+      "uid" : "4d35a481a77822d65b097aa3a55b4f11"
+    }, {
+      "name" : "test_new_repository",
+      "children" : [ {
+        "name" : "Test_New_Repository",
+        "children" : [ {
+          "name" : "test_new_repository[点击新建储存库]",
+          "uid" : "8f0b07826c0114e1",
+          "parentUid" : "54cad273e2325782ebe14d9dd1afb283",
+          "status" : "failed",
+          "time" : {
+            "start" : 1607934467884,
+            "stop" : 1607934472746,
+            "duration" : 4862
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "['Create a new r']" ]
+        } ],
+        "uid" : "54cad273e2325782ebe14d9dd1afb283"
+      } ],
+      "uid" : "fb90404e2e69f0d80e5cfc0102e71bd0"
+    } ],
+    "uid" : "7559db31629684e5f31176d189a833ac"
+  } ]
+}

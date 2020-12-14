@@ -1,0 +1,10 @@
+login_element:
+  - ["id","login_field"]
+  - ["id","password"]
+  - ["xpath",'//*[@id="login"]/form/div[4]/input[12]']
+  - ["xpath","//h2[contains(text(),'Working with a team?')]"]
+  - ["xpath",'//*[@id="js-flash-container"]/div/div']
+login_success_data:
+  - ["hanxi@163.com","123456","Working with a team?"]
+login_fail_data:
+  - ["hanxi.com","123456","Incorrect username or password."]
