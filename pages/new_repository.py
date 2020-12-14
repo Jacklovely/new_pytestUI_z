@@ -1,7 +1,7 @@
 '''
 Code description:新建储存库
 Create time: 2020/12/14
-Developer: 李万洋
+Developer: 叶修
 '''
 
 from common.base import Base
