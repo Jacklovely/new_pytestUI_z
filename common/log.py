@@ -1,7 +1,7 @@
 '''
 Code description: 添加日志
 Create time: 2020/12/14
-Developer: 李万洋
+Developer: 叶修
 '''
 
 import logging,time

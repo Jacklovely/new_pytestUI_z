@@ -1,7 +1,7 @@
 '''
 Code description: 设置前置操作
 Create time: 2020/12/14
-Developer: 李万洋
+Developer:  叶修
 '''
 
 import os
