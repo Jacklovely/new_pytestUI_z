@@ -14,6 +14,7 @@ class WDriver(object):
     log = Log()
     path = getpathinfo.get_path()  # 获取本地路径
     chromedriver_filepath = os.path.join(path, 'lib') + '/' + 'chromedriver.exe'  # 拼接定位到存储第三方chromedriver.exe
+    msedgedriver_filepath = os.path.join(path, 'lib') + '/' + 'msedgedriver.exe' #拼接定位到存储第三方msedgedriver.exe
     # Firefox driver
     def fireFoxDriver(self):
         """
@@ -28,7 +29,7 @@ class WDriver(object):
             self.log.info('%s:found the Firefox driver [%s] successed !' %(sys._getframe().f_code.co_name,self.driver))
             return self.driver
 
-    # chrom driver
+    # chrome driver
     def chromeDriver(self):
         """
         :return:
@@ -48,13 +49,13 @@ class WDriver(object):
             return self.driver
 
 
-    # Ie driver
-    def ieDriver(self):
+    # msedge driver
+    def msedgeDriver(self):
         """
         :return:
         """
         try:
-            self.driver = webdriver.Ie()
+            self.driver = webdriver.Edge(self.msedgedriver_filepath)
         except Exception as e:
             self.log.info('IEDriverServer.exe executable needs to be in PATH. Please download!')
             raise e
@@ -65,4 +66,5 @@ class WDriver(object):
 
 if __name__ == '__main__':
     WDrive=WDriver()
-    WDrive.chromeDriver()
+    #WDrive.chromeDriver()
+    WDrive.msedgeDriver()
