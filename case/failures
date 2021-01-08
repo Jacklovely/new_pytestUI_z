@@ -23,3 +23,8 @@ case/test_login.py::Test_login::test_fail_login[\u9519\u8bef\u7528\u6237\u540d\u
 case/test_login.py::Test_login::test_fail_login[\u9519\u8bef\u7528\u6237\u540d\u6b63\u786e\u5bc6\u7801\u767b\u5f55]
 case/test_new_repository.py::Test_New_Repository::test_new_repository[\u70b9\u51fb\u65b0\u5efa\u50a8\u5b58\u5e93]
 case/test_new_repository.py::Test_New_Repository::test_new_repository[\u70b9\u51fb\u65b0\u5efa\u50a8\u5b58\u5e93]
+case/test_login.py::Test_login::test_fail_login[\u9519\u8bef\u7528\u6237\u540d\u6b63\u786e\u5bc6\u7801\u767b\u5f55]
+case/test_new_repository.py::Test_New_Repository::test_new_repository[\u70b9\u51fb\u65b0\u5efa\u50a8\u5b58\u5e93]
+case/test_login.py::Test_login::test_fail_login[\u9519\u8bef\u7528\u6237\u540d\u6b63\u786e\u5bc6\u7801\u767b\u5f55]
+case/test_login.py::Test_login::test_fail_login[\u9519\u8bef\u7528\u6237\u540d\u6b63\u786e\u5bc6\u7801\u767b\u5f55]
+case/test_new_repository.py::Test_New_Repository::test_new_repository[\u70b9\u51fb\u65b0\u5efa\u50a8\u5b58\u5e93]

@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="073f202d-8443-49eb-b782-e3c031ad8228" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/msedgedriver.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/driver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case/failures" beforeDir="false" afterPath="$PROJECT_DIR$/case/failures" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/test_login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case/test_new_repository.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/test_new_repository.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/login_page.yml" beforeDir="false" afterPath="$PROJECT_DIR$/data/login_page.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/login_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/login_page.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +30,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1hcZHV0Mp6BkM2mVBD9wkV9ozRz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -38,7 +41,7 @@
     <property name="ChangesTree.GroupingKeys" value="" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -52,7 +55,7 @@
       <recent name="F:\pytestUI\main" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.driver">
+  <component name="RunManager" selected="Python tests.pytest for test_new_repository.Test_New_Repository.test_new_repository">
     <configuration name="driver" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pytestUI" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -155,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest for test_new_repository.Test_New_Repository.test_new_repository" />
+        <item itemvalue="Python tests.pytest for test_login.Test_login.test_fail_login" />
         <item itemvalue="Python.driver" />
         <item itemvalue="Python.login_page" />
         <item itemvalue="Python.run_main (1)" />
-        <item itemvalue="Python tests.pytest for test_new_repository.Test_New_Repository.test_new_repository" />
-        <item itemvalue="Python tests.pytest for test_login.Test_login.test_fail_login" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +223,11 @@
       <workItem from="1607937508713" duration="1970000" />
       <workItem from="1608193628244" duration="563000" />
       <workItem from="1608280283378" duration="152000" />
-      <workItem from="1609989510048" duration="322000" />
+      <workItem from="1609989510048" duration="585000" />
+      <workItem from="1610002637048" duration="909000" />
+      <workItem from="1610017514172" duration="10000" />
+      <workItem from="1610090496380" duration="626000" />
+      <workItem from="1610091144273" duration="1156000" />
     </task>
     <task id="LOCAL-00001" summary="失败截图">
       <created>1600322409360</created>
@@ -278,7 +285,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607939456081</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="添加 msedgedriver">
+      <created>1609989976036</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1609989976036</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -290,25 +304,26 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="失败截图" />
     <MESSAGE value="修改选择浏览器，前置打开浏览器" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改选择浏览器，前置打开浏览器" />
+    <MESSAGE value="添加 msedgedriver" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加 msedgedriver" />
   </component>
   <component name="WindowStateProjectService">
     <state x="898" y="448" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607933000325">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="898" y="448" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607933000325" />
-    <state x="560" y="0" key="CommitChangelistDialog2" timestamp="1607939454916">
+    <state x="560" y="0" key="CommitChangelistDialog2" timestamp="1609989974622">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="560" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1607939454916" />
+    <state x="560" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1609989974622" />
     <state width="1075" height="618" key="DebuggerActiveHint" timestamp="1607925466733">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1075" height="618" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1607925466733" />
-    <state x="803" y="294" key="FileChooserDialogImpl" timestamp="1607937505723">
+    <state x="803" y="294" key="FileChooserDialogImpl" timestamp="1610017520664">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="803" y="294" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607937505723" />
+    <state x="803" y="294" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610017520664" />
     <state x="850" y="428" key="Github.ShareDialog" timestamp="1607937316030">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -317,22 +332,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="827" y="185" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607937333408" />
-    <state width="1361" height="168" key="GridCell.Tab.0.bottom" timestamp="1608194191567">
+    <state width="1469" height="301" key="GridCell.Tab.0.bottom" timestamp="1610092081330">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1361" height="168" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608194191567" />
-    <state width="1361" height="168" key="GridCell.Tab.0.center" timestamp="1608194191567">
+    <state width="1469" height="301" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610092081330" />
+    <state width="1469" height="301" key="GridCell.Tab.0.center" timestamp="1610092081330">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1361" height="168" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608194191567" />
-    <state width="1361" height="168" key="GridCell.Tab.0.left" timestamp="1608194191567">
+    <state width="1469" height="301" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610092081330" />
+    <state width="1469" height="301" key="GridCell.Tab.0.left" timestamp="1610092081330">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1361" height="168" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608194191567" />
-    <state width="1361" height="168" key="GridCell.Tab.0.right" timestamp="1608194191567">
+    <state width="1469" height="301" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610092081330" />
+    <state width="1469" height="301" key="GridCell.Tab.0.right" timestamp="1610092081330">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1361" height="168" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608194191567" />
+    <state width="1469" height="301" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610092081330" />
     <state width="1310" height="180" key="GridCell.Tab.1.bottom" timestamp="1607935688770">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -349,14 +364,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1310" height="180" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607935688770" />
+    <state x="949" y="470" width="425" height="271" key="MultipleFileMergeDialog" timestamp="1609990036342">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="949" y="470" width="425" height="271" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609990036342" />
     <state x="484" y="216" key="SettingsEditor" timestamp="1606807351001">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="484" y="216" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606807351001" />
-    <state x="554" y="240" key="Vcs.Push.Dialog.v2" timestamp="1607939463960">
+    <state x="554" y="240" key="Vcs.Push.Dialog.v2" timestamp="1609990053997">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="554" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607939463960" />
+    <state x="554" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1609990053997" />
     <state x="491" y="201" width="1170" height="673" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1607926978307">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -392,11 +411,11 @@
     <SUITE FILE_PATH="coverage/pytestUI$service.coverage" NAME="service Coverage Results" MODIFIED="1607911135789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/python/Lib/site-packages/selenium/webdriver/common" />
     <SUITE FILE_PATH="coverage/pytestUI$base.coverage" NAME="base Coverage Results" MODIFIED="1607916036820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
     <SUITE FILE_PATH="coverage/pytestUI$run_main.coverage" NAME="run_main Coverage Results" MODIFIED="1607928870713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
-    <SUITE FILE_PATH="coverage/new_pytestUI$pytest_for_test_new_repository_Test_New_Repository_test_new_repository.coverage" NAME="pytest for test_new_repository.Test_New_Repository.test_new_repository Coverage Results" MODIFIED="1607938871504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/new_pytestUI$pytest_for_test_new_repository_Test_New_Repository_test_new_repository.coverage" NAME="pytest for test_new_repository.Test_New_Repository.test_new_repository Coverage Results" MODIFIED="1610092120933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
     <SUITE FILE_PATH="coverage/pytestUI$getpathinfo.coverage" NAME="getpathinfo Coverage Results" MODIFIED="1607910684655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pytestUI$pytest_for_test_new_repository_Test_New_Repository_test_new_repository.coverage" NAME="pytest for test_new_repository.Test_New_Repository.test_new_repository Coverage Results" MODIFIED="1607928820862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
     <SUITE FILE_PATH="coverage/pytestUI$login_page.coverage" NAME="login_page Coverage Results" MODIFIED="1607925721967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages" />
-    <SUITE FILE_PATH="coverage/new_pytestUI$pytest_for_test_login_Test_login_test_fail_login.coverage" NAME="pytest for test_login.Test_login.test_fail_login Coverage Results" MODIFIED="1607936213437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/new_pytestUI$pytest_for_test_login_Test_login_test_fail_login.coverage" NAME="pytest for test_login.Test_login.test_fail_login Coverage Results" MODIFIED="1610092107188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
     <SUITE FILE_PATH="coverage/pytestUI$input.coverage" NAME="input Coverage Results" MODIFIED="1607481922979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages" />
     <SUITE FILE_PATH="coverage/pytestUI$pytest_for_test_login_Test_login_test_success_login.coverage" NAME="pytest for test_login.Test_login.test_success_login Coverage Results" MODIFIED="1607934653317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
     <SUITE FILE_PATH="coverage/new_pytestUI$login_page.coverage" NAME="login_page Coverage Results" MODIFIED="1608194089026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages" />

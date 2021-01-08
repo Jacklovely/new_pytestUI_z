@@ -19,7 +19,7 @@ class LoginPage(Base):
     loc4 = tuple(testelement["login_element"][3])#登录成功断言
     loc5 = tuple(testelement["login_element"][4])#登录失败断言
 
-    def input_username(self, text="hanxi@163.com"):
+    def input_username(self, text="hanxi163.com"):
         '''输入用户名'''
         self.input(self.loc1, text)
 
@@ -31,7 +31,7 @@ class LoginPage(Base):
         '''点击登录按钮'''
         self.click(self.loc3)
 
-    def login(self, user="hanxi@163.com", password="123456"):
+    def login(self, user="hanxi163.com", password="123456"):
         '''登录'''
         self.driver.get(self.base_url)
         self.input_username(user)

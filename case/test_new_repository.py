@@ -33,3 +33,19 @@ class Test_New_Repository():
         with allure.step("断言：判断是否打开成功"):
             assert result
         driver.quit()
+
+    @allure.story("无头用例：新建储存库")
+    @pytest.mark.parametrize("msg", testdata["success_data"],
+                             ids=["点击新建储存库"])
+    # @pytest.mark.skip('跳过该成功用例')
+    def test_new_repository_1(self, login_nohead, msg):
+        driver = login_nohead
+        new_repository = New_Repository_Page(driver)
+        with allure.step("点击new"):
+            new_repository.click_new()
+        with allure.step("获取结果: 获取页面实际结果，判断是否打开新增窗口"):
+            result = new_repository.is_open_windows_success(expect_text=msg[0])
+            self.log.info("获取结果：%s" % result)
+        with allure.step("断言：判断是否打开成功"):
+            assert result
+        driver.quit()

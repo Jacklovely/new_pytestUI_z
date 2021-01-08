@@ -36,6 +36,15 @@ def login_fixtrue(browser):
     web.login()
     return _driver
 
+@pytest.fixture(scope="session")
+def login_nohead(driver):
+    #登录前置操作
+    # driver = webdriver.Chrome()
+    #driver.maximize_window()
+    web = LoginPage(driver)
+    web.login()
+    return driver
+
 @pytest.hookimpl(tryfirst=True, hookwrapper=True)
 def pytest_runtest_makereport(item, call):
 
