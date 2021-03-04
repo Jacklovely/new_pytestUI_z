@@ -23,7 +23,7 @@ class Test_login():
     @pytest.mark.parametrize("username,password,msg",testdata["login_success_data"],
                              ids = ["正确用户名密码登录"])
     #@pytest.mark.skip('跳过该成功用例')
-    @pytest.mark.run(order=-1)
+    @pytest.mark.run(order=-1)#调整登录成功用例最后运行
     def test_success_login(self,open_browser,username,password,msg):
         driver = open_browser
         #driver = Base().driver

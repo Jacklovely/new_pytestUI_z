@@ -2,140 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="073f202d-8443-49eb-b782-e3c031ad8228" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/case/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/case/failures" beforeDir="false" afterPath="$PROJECT_DIR$/case/failures" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/case/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/test_login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/case/test_new_repository.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/test_new_repository.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/login_page.yml" beforeDir="false" afterPath="$PROJECT_DIR$/data/login_page.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/login_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/login_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/behaviors.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/behaviors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/categories.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/categories.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/packages.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/suites.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/suites.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/timeline.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/export/influxDbData.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/export/mail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/export/prometheusData.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/history/categories-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/history/duration-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/history/history-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/history/history.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/history/retry-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/plugins/behaviors/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/plugins/packages/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/plugins/screen-diff/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/plugins/screen-diff/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/behaviors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/categories-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/categories.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/duration-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/duration.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/environment.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/executors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/history-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/launch.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/retry-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/severity.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/status-chart.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/suites.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/summary.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/02cce1cb-c4e3-414e-828d-4dbef58bb2a7-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/0ed5c8a0-97e8-4906-8e42-98e3e2de2e46-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/13ccfa2e-2ee9-425c-8e87-ea45a14e58f4-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/1442d7fb-0168-4ecf-8a2d-5e6add1fa0a4-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/1940c9e1-749e-45bf-99ff-ce5315186db8-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/19c8a42c-baf6-41e5-9f44-4523989ed403-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/1c479d90-f56d-4344-8c9d-b47ca0bcee4e-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/1cb38b8c-806a-4400-aaf7-6ff80b0acae0-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/1e6fce36-f0af-46be-aea3-05957ab6e2d2-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/2aad469d-9769-4398-9ee2-10bf8e32ca48-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/2c1a76b5-2a1d-4c8b-addd-b190cedb084b-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/2cc2a4b5-34d8-4602-8b7b-571ad74e935c-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/2f237bd5-df99-4bff-8310-7336afc8d2a9-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/327f012a-d85b-4c04-b685-ef083bcdca5c-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/32f0a551-6633-4e69-a5c7-75e664de5aa9-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/33c8d3a1-f4d4-4ff6-bada-871e17479ac3-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/344693fc-6c8c-4b47-b729-d5c7294e5ef3-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/37df9b99-f202-4f55-8170-60e2187e5a55-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/393fa40a-e24a-4c64-8b7a-46de87bf680a-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/3ad14b5f-483d-451e-aa89-f1b59b58526c-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/3efb5456-383b-4e3c-98ab-8a8c45d1e72f-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/3fb5811e-f67d-4a4d-8a1b-af106ab10443-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/40c66623-fe28-40ed-946b-3fa271dbf9a5-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/4282521c-03ea-46b3-947e-a97cff49e6ff-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/437de1a7-d550-4222-8c4d-4bcf6fed9672-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/4a9e748c-556a-4112-ab73-96d1eb1d13a0-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/4e3e41e4-931e-43ff-931a-3b558e4a4f0e-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/51403157-735d-445f-abba-9222376621e7-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/51d2ee89-856f-4c38-bf69-6e1f0e396104-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/5a4b2824-9216-4a2b-89ec-c133310d1796-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/5da2b36b-5e18-42dc-a571-8da707fa0b09-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/5e1f6be0-3fde-42d3-b40c-ccd5f3197ca5-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/60b978c3-4c78-4545-90c0-488a0e6cc0ea-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/62caf995-39e9-4f7e-9d3b-acbfa63f1380-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/63e3a8ea-d26b-4d30-8c21-a2fbf05b6353-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/649cf3c3-0350-403f-bfa7-b00dc132038c-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/651c48a6-2ed5-4ccb-9611-584e36406180-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/65807b33-bcc6-433e-bc47-249f66551978-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/66ff088f-bed2-45e1-9f2a-3e6ba97ba900-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/67a9f5af-44c7-4403-b927-dfb8970fd49f-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/6b5ba154-ae14-401d-81c7-1c791e22cd4c-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/6c6ec709-3c69-4319-8189-c3d5e014f6e5-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/6d1ad51c-9b5a-465e-8be7-cf1c5c9a3699-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/6d58dc6d-5451-41f4-87ed-860d7c6eeedb-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/6ea8fdc0-731a-44e1-9208-016d1266f901-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/6f880a7a-5a35-4868-a02f-c353056100a2-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/722633af-f3af-416c-a4ca-3fd0fafc110e-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/72bffbe7-daaa-47dc-b269-fdd8d4b20368-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/7926f03e-0f5e-44dc-8bcc-2ba3589dc740-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/7f23e5a0-29d5-4e31-b2f4-8035b1265b6a-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/80dd1492-efe3-43b0-9ebf-63fd241de366-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/82740339-799a-4b9e-9950-5459a9aa1d0a-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/84f36d08-c318-4c84-9233-f2a535416850-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/85c48867-5c11-4370-a6f2-67cf11485e8c-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/8bf943bd-6dfd-46fc-b865-abb34ec4b40e-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/91525775-136d-42a6-a9d3-b3085272052a-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/973d8624-f49a-480d-b90b-70839fe6b31e-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/9950d578-dc4e-40c5-80b0-60938c778b2f-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/9cfffcee-1317-4f8e-9a6d-7e75712fd2e2-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/a4935ca4-7b61-4c4c-b029-9fa0ebf3a4e6-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/a678ec05-fe96-4b87-92ab-eb35c0d1da4c-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/a812aa5e-bc50-4d1b-9d38-1722f7106371-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/ab97e2a4-fdbb-4ab4-821e-23fcff1e10bb-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/b3cdaeb4-a177-482d-bc0d-a4671cc9a648-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/b59c4511-e60a-49cc-a974-6c6513732799-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/c06e58ac-052b-41a5-8bbc-06f0fcf48a3e-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/c1bd0a40-690f-4e10-b1c0-19b2d72b2c26-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/c267a637-79d1-4cb6-8ac5-af9e4f22b5dd-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/c6aa5227-02e5-4e01-9200-c012bd29272d-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/d21b00a4-78b9-4c37-ac67-df3805ff8a16-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/d244491c-6f21-4b71-8141-1e3c14fe7d6e-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/d3660139-07b5-4738-b307-2c77e9869178-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/d4df9637-7b8c-4b7e-878a-f33639d8c1c1-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/dc3b5c57-cc0e-43d1-b779-57b931f63b0a-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/ddf2c528-6584-48e5-9a19-fdba9a50e905-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/e1a1136b-938c-4447-a1f0-c84b5cffbeb7-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/e1a92f6b-274a-4909-8994-c7cee452b50c-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/e4ca0fb2-449a-4788-953f-4037adbb2fea-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/e6d191d6-b9f7-4834-9354-853ae8263940-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/e9aedf51-c576-4ebe-aa1d-b4c7b57e2914-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/ed02265f-233b-4815-b976-35dd55942edf-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/f07a3fa8-7e23-49cd-80be-2c6c938ab4b4-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/f1e498bd-5c54-4b7b-9629-9085369f0e05-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/f7174124-c115-40f4-b71e-1133499487a2-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/f7809a74-7b31-49de-9446-f5da0864e5ea-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/fc51b01f-f74d-4055-8c40-08b2b6699e5f-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/fc8d225f-319e-4167-969b-b4acac77e5f6-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/fd1a8682-31f1-4eda-80a8-450cf1226ba4-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/tmp/fdffc41f-0c6b-47e5-b7f2-53a1e6736c4e-container.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -348,7 +215,7 @@
       <workItem from="1610520714669" duration="25000" />
       <workItem from="1612489347876" duration="10403000" />
       <workItem from="1613630994789" duration="21000" />
-      <workItem from="1614837220570" duration="108000" />
+      <workItem from="1614837220570" duration="199000" />
     </task>
     <task id="LOCAL-00001" summary="失败截图">
       <created>1600322409360</created>
@@ -420,7 +287,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610092352209</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="修改无界面">
+      <created>1614837355943</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1614837355943</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -441,10 +315,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="898" y="448" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607933000325" />
-    <state x="560" y="0" key="CommitChangelistDialog2" timestamp="1610092350792">
+    <state x="560" y="0" key="CommitChangelistDialog2" timestamp="1614837353661">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="560" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1610092350792" />
+    <state x="560" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1614837353661" />
     <state width="1075" height="618" key="DebuggerActiveHint" timestamp="1607925466733">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -501,10 +375,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="484" y="216" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1612504501898" />
-    <state x="554" y="240" key="Vcs.Push.Dialog.v2" timestamp="1610092362173">
+    <state x="554" y="240" key="Vcs.Push.Dialog.v2" timestamp="1614837366919">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="554" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1610092362173" />
+    <state x="554" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1614837366919" />
     <state x="491" y="201" width="1170" height="673" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1607926978307">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
