@@ -20,12 +20,18 @@ log = Log()
 _driver = None
 
 @pytest.fixture(scope="session")#设置前置打开浏览器操作
-def open_browser():
+def open_browser(request):
     driver = WDriver().chromeDriver()
     driver.maximize_window()
-    yield driver
     #关闭浏览器
-    driver.quit()
+    #driver.quit()
+    def end():
+        log.info("全部用例执行完后 teardown quit dirver")
+        time.sleep(1)
+        driver.quit()
+    request.addfinalizer(end)
+    yield driver
+
 
 @pytest.fixture(scope="session")
 def login_fixtrue(browser):

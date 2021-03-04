@@ -22,7 +22,8 @@ class Test_login():
     @allure.story("用例：用户登录")
     @pytest.mark.parametrize("username,password,msg",testdata["login_success_data"],
                              ids = ["正确用户名密码登录"])
-    @pytest.mark.skip('跳过该成功用例')
+    #@pytest.mark.skip('跳过该成功用例')
+    @pytest.mark.run(order=-1)
     def test_success_login(self,open_browser,username,password,msg):
         driver = open_browser
         #driver = Base().driver
@@ -39,9 +40,9 @@ class Test_login():
     @pytest.mark.parametrize("username,password,msg", testdata["login_fail_data"],
                              ids=["错误用户名正确密码登录"])
     # @pytest.mark.skip('跳过')
-    def test_fail_login(self,driver,username,password,msg):
+    def test_fail_login(self,open_browser,username,password,msg):
         #driver调用前置无头模式启动
-        #driver = open_browser
+        driver = open_browser
         web = LoginPage(driver)
         web.login(user=username,password=password)
         with allure.step("获取结果: 获取页面实际结果，判断是否登录成功"):
