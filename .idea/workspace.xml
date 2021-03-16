@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="073f202d-8443-49eb-b782-e3c031ad8228" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/case/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/test_login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/login_page.yml" beforeDir="false" afterPath="$PROJECT_DIR$/data/login_page.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/login_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/login_page.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -215,7 +217,9 @@
       <workItem from="1610520714669" duration="25000" />
       <workItem from="1612489347876" duration="10403000" />
       <workItem from="1613630994789" duration="21000" />
-      <workItem from="1614837220570" duration="199000" />
+      <workItem from="1614837220570" duration="245000" />
+      <workItem from="1614837538044" duration="34000" />
+      <workItem from="1615862816990" duration="184000" />
     </task>
     <task id="LOCAL-00001" summary="失败截图">
       <created>1600322409360</created>
@@ -294,7 +298,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614837355943</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="修改无界面">
+      <created>1614837429995</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1614837429995</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -315,22 +326,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="898" y="448" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607933000325" />
-    <state x="560" y="0" key="CommitChangelistDialog2" timestamp="1614837353661">
+    <state x="560" y="0" key="CommitChangelistDialog2" timestamp="1614837428700">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="560" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1614837353661" />
+    <state x="560" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1614837428700" />
     <state width="1075" height="618" key="DebuggerActiveHint" timestamp="1607925466733">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1075" height="618" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1607925466733" />
-    <state x="803" y="294" key="FileChooserDialogImpl" timestamp="1613631009804">
+    <state x="803" y="294" key="FileChooserDialogImpl" timestamp="1615862865773">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="803" y="294" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1613631009804" />
-    <state x="850" y="428" key="Github.ShareDialog" timestamp="1607937316030">
+    <state x="803" y="294" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1615862865773" />
+    <state x="850" y="428" key="Github.ShareDialog" timestamp="1615862898656">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="850" y="428" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607937316030" />
+    <state x="850" y="428" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1615862898656" />
     <state x="827" y="185" key="Github.UntrackedFilesDialog" timestamp="1607937333408">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -375,10 +386,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="484" y="216" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1612504501898" />
-    <state x="554" y="240" key="Vcs.Push.Dialog.v2" timestamp="1614837366919">
+    <state x="554" y="240" key="Vcs.Push.Dialog.v2" timestamp="1614837435643">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="554" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1614837366919" />
+    <state x="554" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1614837435643" />
     <state x="491" y="201" width="1170" height="673" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1607926978307">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

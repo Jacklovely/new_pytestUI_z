@@ -23,7 +23,7 @@ class LoginPage(Base):
         '''输入用户名'''
         self.input(self.loc1, text)
 
-    def input_password(self, text="123456"):
+    def input_password(self, text="Mrqiu668566"):
         '''输入密码'''
         self.input(self.loc2, text)
 
