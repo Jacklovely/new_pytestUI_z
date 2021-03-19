@@ -31,7 +31,7 @@ class LoginPage(Base):
         '''点击登录按钮'''
         self.click(self.loc3)
 
-    def login(self, user="hanxi978@163.com", password="li..668566"):
+    def login(self, user="hanxi978@163.com", password="li668566"):
         '''登录'''
         self.driver.get(self.base_url)
         self.input_username(user)
