@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="073f202d-8443-49eb-b782-e3c031ad8228" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/case/test_add_equipment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/add_equipment_page.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/add_equipment_page.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/case/failures" beforeDir="false" afterPath="$PROJECT_DIR$/case/failures" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/case/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/test_login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/case/test_new_repository.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/test_register.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/login_page.yml" beforeDir="false" afterPath="$PROJECT_DIR$/data/login_page.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/new_repository.yml" beforeDir="false" afterPath="$PROJECT_DIR$/data/register_page.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/login_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/login_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/new_repository.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/register_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case/test_add_equipment.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/test_add_equipment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/add_equipment_page.yml" beforeDir="false" afterPath="$PROJECT_DIR$/data/add_equipment_page.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +52,7 @@
       <recent name="F:\pytestUI\main" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test_add_equipment.Test_Add_Equipment.test_add_equipment">
+  <component name="RunManager" selected="Python.run_main">
     <configuration name="run_main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pytestUI" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -117,7 +109,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_register.Test_New_Repository.test_new_repository_2" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_add_equipment.Test_Add_Equipment.test_add_equipment_2" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="pytestUI" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,7 +122,7 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_register.Test_New_Repository.test_new_repository_2&quot;" />
+      <option name="_new_target" value="&quot;test_add_equipment.Test_Add_Equipment.test_add_equipment_2&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -153,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.run_main" />
+        <item itemvalue="Python tests.pytest for test_add_equipment.Test_Add_Equipment.test_add_equipment_2" />
         <item itemvalue="Python tests.pytest for test_add_equipment.Test_Add_Equipment.test_add_equipment" />
         <item itemvalue="Python tests.pytest for test_add_equipment.Test_Add_Equipment" />
-        <item itemvalue="Python.run_main" />
         <item itemvalue="Python tests.pytest for test_register.Test_New_Repository.test_new_repository_3" />
-        <item itemvalue="Python tests.pytest for test_register.Test_New_Repository.test_new_repository_2" />
       </list>
     </recent_temporary>
   </component>
@@ -233,7 +225,7 @@
       <workItem from="1615882356979" duration="18000" />
       <workItem from="1615887000045" duration="18000" />
       <workItem from="1616571648224" duration="8179000" />
-      <workItem from="1616631974971" duration="5618000" />
+      <workItem from="1616631974971" duration="7221000" />
     </task>
     <task id="LOCAL-00001" summary="失败截图">
       <created>1600322409360</created>
@@ -326,7 +318,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615863011501</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="修改测试地址">
+      <created>1616638777056</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1616638777056</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -340,13 +339,14 @@
     <MESSAGE value="修改选择浏览器，前置打开浏览器" />
     <MESSAGE value="添加 msedgedriver" />
     <MESSAGE value="修改无界面" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改无界面" />
+    <MESSAGE value="修改测试地址" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改测试地址" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="560" y="0" key="CommitChangelistDialog2" timestamp="1615863010351">
+    <state x="560" y="0" key="CommitChangelistDialog2" timestamp="1616638774800">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="560" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1615863010351" />
+    <state x="560" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1616638774800" />
     <state x="803" y="294" key="FileChooserDialogImpl" timestamp="1615887012182">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -355,59 +355,64 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="850" y="428" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1615862898656" />
-    <state width="1377" height="244" key="GridCell.Tab.0.bottom" timestamp="1616638436208">
+    <state width="1377" height="131" key="GridCell.Tab.0.bottom" timestamp="1616640245803">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1377" height="244" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616638436208" />
-    <state width="1377" height="244" key="GridCell.Tab.0.center" timestamp="1616638436208">
+    <state width="1377" height="131" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616640245803" />
+    <state width="1377" height="131" key="GridCell.Tab.0.center" timestamp="1616640245802">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1377" height="244" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616638436208" />
-    <state width="1377" height="244" key="GridCell.Tab.0.left" timestamp="1616638436207">
+    <state width="1377" height="131" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616640245802" />
+    <state width="1377" height="131" key="GridCell.Tab.0.left" timestamp="1616640245802">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1377" height="244" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616638436207" />
-    <state width="1377" height="244" key="GridCell.Tab.0.right" timestamp="1616638436208">
+    <state width="1377" height="131" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616640245802" />
+    <state width="1377" height="131" key="GridCell.Tab.0.right" timestamp="1616640245803">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1377" height="244" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616638436208" />
-    <state width="1377" height="244" key="GridCell.Tab.1.bottom" timestamp="1616638448344">
+    <state width="1377" height="131" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616640245803" />
+    <state width="1377" height="123" key="GridCell.Tab.1.bottom" timestamp="1616638667797">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1377" height="244" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616638448344" />
-    <state width="1377" height="244" key="GridCell.Tab.1.center" timestamp="1616638448344">
+    <state width="1377" height="123" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616638667797" />
+    <state width="1377" height="123" key="GridCell.Tab.1.center" timestamp="1616638667797">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1377" height="244" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616638448344" />
-    <state width="1377" height="244" key="GridCell.Tab.1.left" timestamp="1616638448344">
+    <state width="1377" height="123" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616638667797" />
+    <state width="1377" height="123" key="GridCell.Tab.1.left" timestamp="1616638667797">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1377" height="244" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616638448344" />
-    <state width="1377" height="244" key="GridCell.Tab.1.right" timestamp="1616638448344">
+    <state width="1377" height="123" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616638667797" />
+    <state width="1377" height="123" key="GridCell.Tab.1.right" timestamp="1616638667797">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1377" height="244" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616638448344" />
-    <state x="949" y="470" width="425" height="271" key="MultipleFileMergeDialog" timestamp="1609990036342">
+    <state width="1377" height="123" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616638667797" />
+    <state x="368" y="171" key="MergeDialog" timestamp="1616639659209">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="949" y="470" width="425" height="271" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609990036342" />
+    <state x="368" y="171" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616639659209" />
+    <state x="949" y="470" width="425" height="271" key="MultipleFileMergeDialog" timestamp="1616639659216">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="949" y="470" width="425" height="271" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616639659216" />
     <state x="484" y="216" key="SettingsEditor" timestamp="1612504501898">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="484" y="216" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1612504501898" />
-    <state x="554" y="240" key="Vcs.Push.Dialog.v2" timestamp="1615863022396">
+    <state x="554" y="240" key="Vcs.Push.Dialog.v2" timestamp="1616639703686">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="554" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1615863022396" />
+    <state x="554" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1616639703686" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/new_pytestUI$driver.coverage" NAME="driver Coverage Results" MODIFIED="1609989901986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
-    <SUITE FILE_PATH="coverage/new_pytestUI$run_main.coverage" NAME="run_main Coverage Results" MODIFIED="1616578030962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/new_pytestUI$run_main.coverage" NAME="run_main Coverage Results" MODIFIED="1616640245795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/new_pytestUI$pytest_for_test_new_repository_Test_New_Repository_test_new_repository_1.coverage" NAME="pytest for test_new_repository.Test_New_Repository.test_new_repository_1 Coverage Results" MODIFIED="1612491660444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
     <SUITE FILE_PATH="coverage/new_pytestUI$pytest_for_test_login_Test_login.coverage" NAME="pytest for test_login.Test_login Coverage Results" MODIFIED="1612496358631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
     <SUITE FILE_PATH="coverage/new_pytestUI$pytest_for_test_register_Test_New_Repository_test_new_repository_3.coverage" NAME="pytest for test_register.Test_New_Repository.test_new_repository_3 Coverage Results" MODIFIED="1616578002787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
     <SUITE FILE_PATH="coverage/pytestUI$service.coverage" NAME="service Coverage Results" MODIFIED="1607911135789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/python/Lib/site-packages/selenium/webdriver/common" />
     <SUITE FILE_PATH="coverage/pytestUI$base.coverage" NAME="base Coverage Results" MODIFIED="1607916036820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/new_pytestUI$pytest_for_test_add_equipment_Test_Add_Equipment_test_add_equipment_2.coverage" NAME="pytest for test_add_equipment.Test_Add_Equipment.test_add_equipment_2 Coverage Results" MODIFIED="1616640220684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
     <SUITE FILE_PATH="coverage/pytestUI$run_main.coverage" NAME="run_main Coverage Results" MODIFIED="1607928870713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
     <SUITE FILE_PATH="coverage/new_pytestUI$pytest_for_test_new_repository_Test_New_Repository_test_new_repository.coverage" NAME="pytest for test_new_repository.Test_New_Repository.test_new_repository Coverage Results" MODIFIED="1610092120933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
     <SUITE FILE_PATH="coverage/pytestUI$getpathinfo.coverage" NAME="getpathinfo Coverage Results" MODIFIED="1607910684655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

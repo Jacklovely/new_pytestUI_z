@@ -9,3 +9,5 @@ equipment_element:
   - ["xpath","//table[@id='alldeviceInfo']//tbody"]
 equipment_success_data:
   - ['小米11','11','11','小米','10']
+equipment_fail_data:
+  - ['小米11','11','11','小米','10','哈哈哈']
