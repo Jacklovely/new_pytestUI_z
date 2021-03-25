@@ -63,7 +63,7 @@ run_main.py: 项目运行文件
         driver = WDriver().chromeDriver()
         调用driver.py文件中不同的方法
 #### 目前不足之处：
-        登录成功用例不可与其他用例一同运行（改良中）
+        登录成功用例需设置运行顺序为最后
 
 
 
