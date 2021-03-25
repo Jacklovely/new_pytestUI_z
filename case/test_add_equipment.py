@@ -1,7 +1,7 @@
 '''
 Code description:添加设备
 Create time: 2021/3/24
-Developer: 李万洋
+Developer: 叶修
 '''
 import time
 
