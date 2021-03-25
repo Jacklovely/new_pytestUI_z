@@ -1,10 +1,12 @@
 login_element:
-  - ["id","login_field"]
-  - ["id","password"]
-  - ["xpath",'//*[@id="login"]/div[4]/form/input[14]']
-  - ["xpath","//h2[contains(text(),'Working with a team?')]"]
-  - ["xpath",'//*[@id="js-flash-container"]/div/div']
+  - ["id","id_user_name"]
+  - ["id","id_password"]
+  - ["xpath","//input[@value='登录']"]
+  - ["xpath","//label[@class='welcome_label']"]
+  - ["xpath","//form[@action='/mobiledevice/login/']"]
 login_success_data:
-  - ["hanxi978@163.com","Mrqiu668566","Working with a team?"]
+  - ["Mrqiu","668566","welcome~秋水"]
 login_fail_data:
-  - ["hanxi.com","Mrqiu668566","Incorrect username or password."]
+  - ["Mrqiu","123456","用户或密码错误"]
+  - ["Mrqiu_z","668566","用户或密码错误"]
+  - ["Mrqiu_z","123456","用户或密码错误"]

@@ -1,0 +1,11 @@
+equipment_element:
+  - ["xpath","//div[@id='left_item']//div[2]"]
+  - ["id",'dev_name']
+  - ["id",'dev_model']
+  - ['id','dev_num']
+  - ['id','dev_brand']
+  - ['id','de_version']
+  - ["xpath","//input[@value='添加']"]
+  - ["xpath","//table[@id='alldeviceInfo']//tbody"]
+equipment_success_data:
+  - ['小米11','11','11','小米','10']

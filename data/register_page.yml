@@ -1,0 +1,15 @@
+register_element:
+  - ["xpath","//input[@value='注册']"]
+  - ["id",'id_user_name']
+  - ["id",'id_login_name']
+  - ['id','id_password']
+  - ['id','id_repassword']
+  - ["xpath","//label[@class='welcome_label']"]
+  - ["xpath","//form[@action='/mobiledevice/signup/']"]
+  - ["xpath","//input[@class='button']"]
+register_success_data:
+  - ['qiu','qiu','12345','12345',"welcome"]
+register_fail_data_1:
+  - ['123','123','12345','12345',"用户名已存在"]
+register_fail_data_2:
+  - ['qiu','qiu','12345','123456','两次密码不一致']

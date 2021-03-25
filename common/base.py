@@ -30,7 +30,7 @@ class Base(object):
     log = Log()
 
     def __init__(self,open_browser,timeout = 10,t = 0.5):
-        url = "https://github.com/login"
+        url = "http://106.53.210.165:8989/mobiledevice/login/"
         self.base_url = url
         self.driver = open_browser
         self.timeout = timeout

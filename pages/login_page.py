@@ -3,6 +3,7 @@ Code description: 登录页面
 Create time: 2020/12/14
 Developer: 叶修
 '''
+import time
 
 from common.base import Base
 from common.driver import WDriver
@@ -19,11 +20,11 @@ class LoginPage(Base):
     loc4 = tuple(testelement["login_element"][3])#登录成功断言
     loc5 = tuple(testelement["login_element"][4])#登录失败断言
 
-    def input_username(self, text="hanxi978@163.com"):
+    def input_username(self, text="Mrqiu"):
         '''输入用户名'''
         self.input(self.loc1, text)
 
-    def input_password(self, text="Mrqiu668566"):
+    def input_password(self, text="668566"):
         '''输入密码'''
         self.input(self.loc2, text)
 
@@ -31,19 +32,19 @@ class LoginPage(Base):
         '''点击登录按钮'''
         self.click(self.loc3)
 
-    def login(self, user="hanxi978@163.com", password="li..668566"):
+    def login(self, user="Mrqiu", password="668566"):
         '''登录'''
         self.driver.get(self.base_url)
         self.input_username(user)
         self.input_password(password)
         self.click_button()
 
-    def is_login_success(self, expect_text='Working with a team?'):
+    def is_login_success(self, expect_text='welcome~秋水'):
         text = self.get_text(self.loc4)
         self.log.info("获取到断言元素的文本内容：%s"%text)
         return expect_text == text
 
-    def is_login_fail(self, expect_text='Incorrect username or password.'):
+    def is_login_fail(self, expect_text='用户或密码错误'):
         text = self.get_text(self.loc5)
         self.log.info("获取到断言元素的文本内容：%s"%text)
         return expect_text in text
