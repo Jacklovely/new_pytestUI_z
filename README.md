@@ -1,7 +1,7 @@
-### web_UI自动化框架说明
-本框架结合单元测试框架pytest+allure
+### web_UI自动化说明
+结合单元测试框架pytest+allure
 
-#### 框架介绍：
+#### 介绍：
 
 目录：
 
